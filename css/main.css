@@ -1,0 +1,593 @@
+/* ==========================================================================
+   Base styles: opinionated defaults
+   ========================================================================== */
+html,button,input,select,textarea {
+color:#222;
+}
+html {
+font-size:1em;
+line-height:1.4;
+}
+/*
+ * Remove text-shadow in selection highlight: h5bp.com/i
+ * These selection rule sets have to be separate.
+ * Customize the background color to match your design.
+ */
+::-moz-selection {
+background: #b3d4fc;
+text-shadow: none;
+}
+::selection {
+background: #b3d4fc;
+text-shadow: none;
+}
+/*
+ * A better looking default horizontal rule
+ */
+hr {
+display: block;
+height: 1px;
+border: 0;
+border-top: 1px solid #ccc;
+margin: 1em 0;
+padding: 0;
+}
+/*
+ * Remove the gap between images, videos, audio and canvas and the bottom of
+ * their containers: h5bp.com/i/440
+ */
+audio,canvas,img,video {
+vertical-align:middle;
+}
+/*
+ * Remove default fieldset styles.
+ */
+fieldset {
+border:0;
+margin:0;
+padding:0;
+}
+/*
+ * Allow only vertical resizing of textareas.
+ */
+textarea {
+resize:vertical;
+}
+
+/* ==========================================================================
+   Main styles
+   ========================================================================== */
+
+html{-webkit-tap-highlight-color: rgba(0,0,0,0);-webkit-user-select: none; -webkit-touch-callout:none; background:#344966;}
+
+/*-- Percent Loader -- */
+#mainLoader{position:absolute; z-index:5; display:none; font-size:30px; line-height:30px; color:#fff; text-align:center; width:100%; font-family: 'Exo', sans-serif;}
+
+/*-- Mobile Rotate Instruction -- */
+#rotateHolder{position:absolute;width:100%;height:100%;background-color:#476088;z-index:1000; display:none;}
+.mobileRotate{width:200px;height:auto;position:absolute;text-align:center;top:35%;left:calc(50% - 100px)}
+.rotateImg{ margin-bottom:10px;}
+.rotateDesc{color:#fff; font-size:20px; line-height:20px; font-family: 'Exo', sans-serif;}
+.rotatePortrait{ animation:spinPortrait .5s linear infinite; }
+.rotateLandscape{ animation:spinLandscape .5s linear infinite; }
+
+@keyframes spinPortrait {
+	0% { transform:rotate(-90deg); }
+  	50% { transform:rotate(0deg); }
+	100% { transform:rotate(0deg); } 
+}
+
+@keyframes spinLandscape {
+  	50% { transform:rotate(90deg); }
+	100% { transform:rotate(90deg); } 
+}
+
+/*-- Content Wrapper -- */
+#mainHolder{position:relative; width:100%; height:100%; display:none; background:#476088; font-family: 'Exo', sans-serif;}
+#option{ position:absolute; top:15px; right:15px; z-index:200; width: 5%; max-width: 60px; min-width: 40px; }
+#buttonScoreboard{ position: absolute; right: 125%; }
+.buttonFullscreen, .buttonSound, .buttonExit{ margin:5px 0px;}
+.buttonSoundOn .soundOff{ display:block;}
+.buttonSoundOn .soundOn{ display:none;}
+.buttonSoundOff .soundOn{ display:block;}
+.buttonSoundOff .soundOff{ display:none;}
+
+.buttonOptionOn .optionOff{ display:block;}
+.buttonOptionOn .optionOn{ display:none;}
+.buttonOptionOff .optionOn{ display:block;}
+.buttonOptionOff .optionOff{ display:none;}
+
+.buttonIcon{ width:100%;}
+.fontLoader{font-family: 'Exo', sans-serif; font-size:25px; line-height:25px; color:#fff;}
+
+/*-- Logo Wrapper -- */
+#logoHolder{display: table; position: absolute; height: 100%; width: 100%; color:#FFF; text-align:center;}
+.logo{ width:50%; margin:auto; padding-top:7%;}
+#logoHolder .preloadText{margin-top:10px;}
+#logoHolder .versusImg{ width:20%; margin:auto; margin-top:10px;}
+#logoHolder .gridImg{ width:20%; margin:auto; margin-top:10px;}
+
+/*-- Confirm Wrapper -- */
+#confirmHolder{ width:100%; height:100%; margin:auto; position:absolute; overflow: hidden; z-index:1000;}
+.confirmContent .message{ position:absolute; background:#476088; width:50%; height:50%; left:25%; top:30%; text-align:center; -webkit-border-radius: 20px;-moz-border-radius: 20px;border-radius: 20px; color:#FFF; padding:5% 10%;}
+.confirmContent .okImg{ position:absolute; width:20%; top:63%; left:29%;}
+.confirmContent .cancelImg{ position:absolute; width:20%; top:63%; right:29%;}
+.overlayBg{background:url(../assets/bg_pixel.png) repeat;}
+
+/*-- Loader Wrapper -- */
+#questionLoaderHolder{ width:100%; height:100%; margin:auto; position:relative; overflow: hidden; background:url(../assets/ajax-loader.gif) center no-repeat;}
+
+/*-- Players Wrapper -- */
+#playersHolder{ width:100%; height:100%; margin:auto; position:relative; overflow: hidden; color:#FFF;}
+.playersContent .fontPlayerDetailsTitle{ padding:5% 0 2%; text-align:center;}
+.playersContent .totalPlayers{ position:absolute; width:20%; top:67%; left:40%; text-align: center;}
+.playersContent .avatarContainer{ position: relative; padding: 0 5%;}
+.playersContent .avatarDetails{ position: absolute; top: 0; left: 0; padding: 5% 10%;}
+.playersContent .avatarDetails .name{ width: 90%; margin: 10% auto 5%; text-align: center;}
+.playersContent .avatarDetails .icon{ width: 65%; margin: auto;}
+.playersContent .avatarDetails input{ text-align: center; width: 100%; padding: 3% 5%;}
+.playersContent .morePlayer{ position:absolute; width:5%; top:65%; right:36%;}
+.playersContent .lessPlayer{ position:absolute; width:5%; top:65%; left:36%;}
+.playersContent .startImg{ position:absolute; width:15%; top:80%; left: 42%;}
+.playersContent .nextImg{ display: none;}
+.playersContent .prevImg{ display: none;}
+
+.flexLists > ul{ position:relative; display: flex; flex-wrap: wrap; width: 80%; list-style: none; margin: auto; padding: 0; }
+.flexLists > ul > li{ width:calc(25%); margin:0; position: relative;}
+.flexTwoLists > ul{ width: 40%; }
+.flexTwoLists > ul > li{ width:calc(50%);}
+.flexThreeLists > ul{ width: 60%; }
+.flexThreeLists > ul > li{ width:calc(33.33%);}
+
+/*-- Mode Wrapper -- */
+#modeHolder{display: table; position: absolute; height: 100%; width: 100%; color:#FFF; text-align:center;}
+#modeHolder .preloadText{margin-top:10px;}
+#modeHolder .versusImg{ width:20%; margin:auto; margin-top:10px;}
+#modeHolder .gridImg{ width:20%; margin:auto; margin-top:10px;}
+#modeHolder .fontLogText{ position: absolute; width: 100%; top: 80%; text-align: center; }
+
+/*-- Category Wrapper -- */
+#categoryHolder{ width:100%; height:100%; margin:auto; position:relative; overflow: hidden;}
+.categoryContent ul{ list-style:none; padding:0; margin:0; color:#FFF; width:80%; margin:auto; padding-top:10%;}
+.categoryContent li{ width:29%; float:left; margin:0 2%;}
+.categoryContent .categoryTitle{ padding:5%; text-align:center;}
+.categoryContent .nextImg{ position:absolute; width:5%; top:85%; right:44%;}
+.categoryContent .prevImg{ position:absolute; width:5%; top:85%; left:44%;}
+.categoryContent .categoryNav{ position:absolute; width:5%; top:10%; left:10%; width:80%; text-align: left; color: #fff;}
+.categoryContent .categoryNav .active{ text-decoration: underline; }
+#categoryHolder .fontLogText{ position: absolute; width: 100%; top: 80%; text-align: center; }
+
+/*-- Question Wrapper -- */
+#gameHolder{ width:100%; height:100%; margin:auto; position:relative; overflow: hidden;}
+#gameStatus{ position:absolute; top:0; left:0; margin:15px; width:100%; height:100%;}
+#gameStatus .gameTotal{ position:absolute; top:0; left:0; width:9%;}
+#gameStatus .gameScore{ position:absolute; top:0; left:0; width:13.5%;}
+#gameStatus .gameTimer{ position:absolute; top:0; left:41%; width:15%; text-align:center;}
+#gameStatus .gameChance{ position:absolute; top:0; left:10%; width:11%;}
+#gameStatus .gameChanceWithPoints{ left:14%; }
+.gameQuestionStatus{ position:absolute; top:25%; text-align:center; color:#1CA081; width:100%;}
+.gameTimerStatus{ position:absolute; top:25%; text-align:center; color:#1CA081; width:100%; left:18%;}
+.gameScoreStatus{ position:absolute; top:25%; text-align:center; color:#1CA081; width:100%; left:0%;}
+
+#instructionHolder{ position:absolute; width:100%; height:100%; display: none; color: #fff;}
+#instructionHolder .fontInstructionTitle{ margin:15% 0 2%; text-align:center;}
+#instructionHolder .fontInstruction{ width:80%; text-align: center; color: #fff; margin: auto;}
+
+#chanceHolder{ position:absolute; width:100%; height:100%; display: none; z-index: 100;}
+#chanceHolder .chanceIcon{ position:absolute; width:30%; top:35%; left: 35%;}
+#chanceHolder .chanceAnimateIcon{ position:absolute; width:100%;}
+
+#gridStyleHolder{ position:absolute; width:100%; height:100%; display: none;}
+#gridStyleHolder .gridStyle{ position:absolute; width:100%;}
+#gridStyleHolder .text{ white-space: nowrap; overflow: hidden; text-overflow: ellipsis;}
+#gridStyleHolder .fontGridStatus{ position:absolute; top:75%; left:5%; width:90%; text-align: center; color:#FFF;}
+#gridStyleHolder .nextGridStyleImg{ display: none;}
+#gridStyleHolder .prevGridStyleImg{ display: none;}
+#gridStyleHolder .gridFocus{ z-index:100;}
+
+#gamePlayersHolder{ position:absolute; width:100%; height:100%; top:0; left: 0;}
+#gamePlayersHolder ul{ padding: 0; margin: 0; list-style: none;}
+#gamePlayersHolder .player{ position:absolute; width:100%; pointer-events: auto;}
+#gamePlayersHolder .text{ white-space: nowrap; overflow: hidden; text-overflow: ellipsis;}
+#gamePlayersHolder .playerFocus{ z-index:100;}
+
+#questionHolder{ position:absolute; width:100%; height:100%;}
+#questionHolder .question{ position:absolute; width:100%; white-space: pre-line;}
+#bgHolder{ position:absolute; width:100%; height:100%;}
+#bgHolder .background{ position:absolute; width:100%;}
+#videoHolder{position:absolute;}
+#answerHolder{ position:absolute; width:100%; height:100%;}
+#answerHolder .answer{ position:absolute; width:100%; white-space: pre-line;}
+#answerHolder .drop, #answerHolder .dropLabel{ position:absolute; width:100%; white-space: pre-line;}
+#answerHolder .answerFocus{ z-index:100;}
+#inputHolder{ position:absolute; width:100%; height:100%;}
+#inputHolder .input{ position:absolute; width:100%;}
+#inputHolder input{ border:none; -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+box-sizing: border-box;         /* Opera/IE 8+ */}
+#groupHolder{ position:absolute; width:100%; height:100%;}
+#groupHolder .groupDrop, #groupHolder .groupDropLabel{ position:absolute; width:100%; white-space: pre-line;}
+
+#questionResultHolder{ position:relative; width:100%; height:100%;}
+.questionResultText, .questionPlayerText, .nextImg, .previewImg{ position:absolute;}
+#questionResultHolder .questionResultText{ width: 90%; top: 25%; left: 5%; text-align: center; color: #fff;}
+#questionResultHolder .questionPlayerText{ width: 90%; top: 35%; left: 5%; text-align: center; color:#faa71a;}
+#questionResultHolder .nextImg{ top:65%; width:6%; left:51%;}
+#questionResultHolder .previewImg{ top:65%; width:6%; left:43%;}
+#explanationHolder{ position:absolute; width:100%; height:100%;}
+#explanationHolder .explanation{ position:absolute; width:100%;}
+
+/*-- Result Wrapper -- */
+#resultHolder{display: table; position: absolute; height: 100%; width: 100%;}
+.resultContent{ width:100%; margin:auto; text-align:center; color:#fff;}
+.resultContent .share{ margin-top:5%;}
+.resultContent .share ul{ list-style:none; margin:0; padding:0; margin-top:10px;}
+.resultContent .share li{ width:20%; margin:0 3px; display:inline-block;}
+.resultContent .option{ margin-top:5%;}
+.resultContent .option ul{ list-style:none; margin:0; padding:0;}
+.resultContent .option li{ width:20%; margin:0 3px; display:inline-block;}
+.resultContent .singleOption li:nth-child(2), .resultContent .singleOption li:nth-child(3){display:none;}
+.resultContent .NoSaveOption li:nth-child(2){ display:none;}
+.resultContent .fontResultStats{ margin-top: 5%; }
+
+.resultContent .resultTitle{ padding:5% 0 1%; text-align:center;}
+.resultContent .totalPlayers{ position:absolute; width:20%; top:67%; left:40%; text-align: center;}
+.resultContent .flexLists{ margin-top:0;}
+.resultContent .flexLists li.first{ background: #E64D3C; }
+.resultContent .flexLists li.second{ background: #D1463B; }
+.resultContent .flexLists li.third{ background: #B83A34; }
+.resultContent .flexLists li.four{ background: #A12C2B; }
+.resultContent .playerContainer{ position: relative; padding:0;}
+.resultContent .top{ width:100%; height:50%; background:#476088; padding: 5%;}
+.resultContent .avatarDetails{ padding: 8% 5% 10%; }
+.resultContent .icon{ width: 45%; margin: 5% auto;}
+.resultContent .medal{ width: 35%; margin: 0 auto 5%;}
+.resultContent .fontResultName{ width: 100%; text-align: center;}
+.resultContent .nextImg{ display: none;}
+.resultContent .prevImg{ display: none;}
+
+.resultContent .flexLists > ul > li.second .top{ padding-top: 20%; }
+.resultContent .flexLists > ul > li.third .top{ padding-top: 30%; }
+.resultContent .flexLists > ul > li.four .top{ padding-top: 40%; }
+
+/*-- Scoreboard -- */
+#scoreboardHolder{display: table; position: absolute; height: 100%; width: 100%; display: none; top:0; z-index: 100; }
+.resultExtra{ width:100%; height:100%; position:absolute; margin:auto; text-align:center; color:#fff; display:none; z-index: 1;}
+.scoreContent, .submitContent{ position:relative; background:#476088; width:85%; height:90%; -webkit-border-radius: 25px;-moz-border-radius: 25px;border-radius: 25px; margin:auto; margin-top:2%;}
+.scoreTitle{ padding:2% 0;}
+.scoreContent ul.scoreList{ list-style:none; padding:0; margin:2% auto; width:90%; position:relative; height:62%;}
+.scoreContent ul.scoreList li{ width: 100%; padding:.7% 2%; display: table;}
+.scoreContent ul.scoreList li .list{ display: table-cell;}
+.scoreContent ul.scoreList li:nth-child(odd) {	background:#344966; }
+
+.scoreContent .left{ position:absolute; width:5%; bottom:9%; left:9%; }
+.scoreContent .right{ position:absolute; width:5%; bottom:9%; right:9%; }
+.scoreContent .center{ width:17%; margin:auto;}
+.scoreContent .loader{ position:absolute; text-align: center; width:10%; top:45%; left:44%; padding: 1% 2%; background-color:rgba(71, 96, 136, 0.5); display:none; }
+
+.submitTitle{ padding:5% 0;}
+.submitContent .label, .submitContent input{ margin:1% 0; text-align:center;}
+.action{ width:40%; margin:3% auto;}
+.buttonSubmit{ float:left; width:48%;}
+.buttonCancelSubmit{ float:right; width:48%;}
+
+.fontStatus{font-family: 'Exo', sans-serif; font-size:30px; line-height:30px; color:#fff;}
+.fontQuestion{ font-family: 'Exo', sans-serif;}
+.fontAnswer{ font-family: 'Exo', sans-serif;}
+.fontInput{ font-family: 'Exo', sans-serif;}
+.fontCorrectWrong{ font-family: 'Exo', sans-serif;}
+.fontShare{font-family: 'Exo', sans-serif;}
+.fontCategory{font-family: 'Exo', sans-serif;}
+.fontMessage{font-family: 'Exo', sans-serif;}
+.fontPreload{font-family: 'Exo', sans-serif;}
+.fontScoreTitle{font-family: 'Exo', sans-serif;}
+.fontScoreList{font-family: 'Exo', sans-serif;}
+.fontLabel{font-family: 'Exo', sans-serif;}
+.fontPlayerInput{font-family: 'Exo', sans-serif;}
+.fontLogText{font-family: 'Exo', sans-serif; color: #fff;}
+
+/*-- Form Wrapper -- */
+#editWrapper{ display:none;}
+#floatForm{ position:absolute; left:0; top:0; z-index:100; background:#344966; padding:15px; color:#FFF; width:280px; border:#fff solid 2px;}
+#floatForm{ font-size:12px;}
+#floatForm #questionWrapper, #floatForm #answersWrapper, #floatForm #inputsWrapper, #floatForm #explanationWrapper, #floatForm #sortWrapper, #floatForm #templateWrapper, #floatForm #videoWrapper, #floatForm #categoryWrapper, #floatForm #sortAnswerWrapper, #floatForm #groupsWrapper{ background:#476088; padding:10px;}
+#floatForm .innerWrapper{ background:#344966; padding:10px;}
+
+#floatForm input.button, #floatForm select.half, #floatForm label{ width:49%;}
+#floatForm .formRow{ height:25px; }
+#floatForm .extraHeight{ height:55px; }
+#floatForm .formRow input, #floatForm .formRow select{ float:right; width:48%;}
+#floatForm .formRow label{ float:left; width:48%;}
+
+#floatForm input{ width:100%; font-size:12px;}
+#floatForm textarea{ float:left; width:100%; resize:none;}
+#floatForm select, #floatForm option{ width:100%;}
+
+.editBorder .question, .editBorder #videoHolder, .editBorder .dropLabel, .editBorder .groupDropLabel, .editBorder .explanation{ outline:#fff000 dashed 2px;}
+.editBorder .buttonClick, .editBorder input{ outline:#F90 dashed 2px;}
+
+.editFrontIndex{ z-index:1000; }
+.editSecondIndex{ z-index:500; }
+.editDrag{ position:absolute; }
+.editDrag:hover{ outline:1px dashed #ccc; }
+.editDrag .ui-icon{ width:18px; height:18px; background: url('../assets/edit_resize.svg');}
+
+.editBorderFocus{ animation-name: borderFocus; animation-duration: .5s; animation-iteration-count: infinite; }
+@keyframes borderFocus {
+  0% { outline:#F90 solid 4px; }
+  50% { outline:#fff solid 4px; }
+  100% { outline:#F90 solid 4px; }
+}
+.editBorderDropFocus{ animation-name: borderDropFocus; animation-duration: .5s; animation-iteration-count: infinite; }
+@keyframes borderDropFocus {
+  0% { outline:#15a30e solid 4px; }
+  50% { outline:#fff solid 4px; }
+  100% { outline:#15a30e solid 4px; }
+}
+
+.buttonClick{ cursor:pointer;}
+.fitImg img{ width:100%; height:auto;}
+.ignorePadding{border:none; -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+box-sizing: border-box;         /* Opera/IE 8+ */}
+
+@media (max-width:900px) and (orientation:portrait){
+	.logo{ width:90%; margin:auto; padding-top:30%;}
+	#logoHolder .versusImg{ width:50%; margin-top: 10%;}
+	#logoHolder .gridImg{ width:50%; margin-top: 3%;}
+
+	#gameStatus{ margin:15px;}
+	#gameStatus .gameTotal{ width:17%;}
+	#gameStatus .gameTimer{ left:35.5%; width:28%;}
+	#gameStatus .gameScore{ width:24.5%;}
+	#gameStatus .gameChance{ top:7%; left:0%; width:18%;}
+	#gameStatus .gameChanceWithPoints{ left:0%; }
+
+	.confirmContent .message{ width:80%; height:55%; left:10%; top:20%; padding:5% 10%;}
+	.confirmContent .okImg{ width:40%; top:46%; left:30%;}
+	.confirmContent .cancelImg{ width:40%; top:57%; right:30%;}
+
+	#modeHolder .versusImg{ width:50%; margin-top: 10%;}
+	#modeHolder .gridImg{ width:50%; margin-top: 3%;}
+	#modeHolder .fontLogText{ top: 60%; }
+
+	.categoryContent ul{ padding-top:18%;}
+	.categoryContent li{ width:45%; float:left; margin:0 2.5%;}
+	.categoryContent .categoryTitle{ min-height:50px;}
+	.categoryContent .nextImg{ position:absolute; width:15%; top:87%; right:32%;}
+	.categoryContent .prevImg{ position:absolute; width:15%; top:87%; left:32%;}
+	.categoryContent .categoryNav{ position:absolute; width:75%; top:3%; left:10%;}
+	#categoryHolder .fontLogText{ top: 80%; }
+
+	#playersHolder{ width:100%; height:100%; margin:auto; position:relative; overflow: hidden; color:#FFF;}
+	.playersContent .fontPlayerDetailsTitle{ padding:15% 0 2%; text-align:center;}
+	.playersContent .totalPlayers{ position:absolute; width:40%; top:67%; left:30%; text-align: center;}
+	.playersContent .morePlayer{ position:absolute; width:12%; top:65%; right:22%;}
+	.playersContent .lessPlayer{ position:absolute; width:12%; top:65%; left:22%;}
+	.playersContent .startImg{ position:absolute; width:40%; top:80%; left: 30%;}
+	.playersContent .nextImg{ position:absolute; width:12%; top:34%; right:5%; display: block;}
+	.playersContent .prevImg{ position:absolute; width:12%; top:34%; left:5%; display: block;}
+
+	.flexLists > ul{ position:relative; display: flex; flex-wrap: wrap; width: 65%; list-style: none; margin: auto; padding: 0; }
+	.flexLists > ul > li{ width:calc(100%); margin:0; position: relative;}
+	.flexTwoLists > ul{ width: 65%; }
+	.flexTwoLists > ul > li{ width:calc(100%);}
+	.flexThreeLists > ul{ width: 65%; }
+	.flexThreeLists > ul > li{ width:calc(100%);}
+
+	#instructionHolder .fontInstructionTitle{ padding:55% 0 2%; text-align:center;}
+
+	#chanceHolder .chanceIcon{ position:absolute; width:60%; top:45%; left:20%;}
+
+	#gridStyleHolder .nextGridStyleImg{ position:absolute; width:12%; top:34%; right:5%; display: block;}
+	#gridStyleHolder .prevGridStyleImg{ position:absolute; width:12%; top:34%; left:5%; display: block;}
+
+	#questionResultHolder .nextImg{ top:65%; width:15%; left:52%;}
+	#questionResultHolder .previewImg{ top:65%; width:15%; left:35%;}
+	#questionResultHolder .questionPlayerText{ top:32%; }
+	
+	.resultContent{ width:80%;}
+	.resultContent .resultTitle{ padding: 25% 0 1%; text-align:center;}
+	.resultContent .nextImg{ position:absolute; width:12%; top:44%; right:5%; display: block;}
+	.resultContent .prevImg{ position:absolute; width:12%; top:44%; left:5%; display: block;}
+	.resultContent .flexLists .top{ padding-top: 20%; }
+	.resultContent .flexLists > ul > li.second .top{ padding-top: 20%; }
+	.resultContent .flexLists > ul > li.third .top{ padding-top: 20%; }
+	.resultContent .flexLists > ul > li.four .top{ padding-top: 20%; }
+	
+	.scoreContent, .submitContent{ width:100%;  margin-top:15%; height:85%;}
+	.scoreTitle{ padding:8% 0;}
+	.scoreContent ul.scoreList{ list-style:none; padding:0; margin:0 auto 5%; width:90%; position:relative; height:62%;}
+	.scoreContent ul.scoreList li{ padding:2% 2%;}
+	
+	.scoreContent .left{ position:absolute; width:12%; bottom:7%; left:9%; }
+	.scoreContent .right{ position:absolute; width:12%; bottom:7%; right:9%; }
+	.scoreContent .center{ width:35%; margin:auto;}
+	.scoreContent .loader{ width:30%; left:33%; }
+	
+	.submitTitle{ padding:15% 0;}
+	.submitContent .label, .submitContent input{ margin:2% 0;}
+	.action{ width:40%; margin:3% auto;}
+	.buttonSubmit{ float:none; width:100%; margin-bottom:10%;}
+	.buttonCancelSubmit{ float:none; width:100%;}
+}
+
+@media (max-width:500px) and (orientation:portrait){
+	#gameStatus{ margin:10px;}
+	#option{ width: 8%; top: 10px; right: 10px;}
+}
+
+@-webkit-viewport{width:device-width}
+@-moz-viewport{width:device-width}
+@-ms-viewport{width:device-width}
+@-o-viewport{width:device-width}
+@viewport{width:device-width}
+
+
+
+/* ==========================================================================
+   Helper classes
+   ========================================================================== */
+/*
+ * Image replacement
+ */
+.ir {
+background-color: transparent;
+border: 0;
+overflow: hidden;
+/* IE 6/7 fallback */
+*text-indent: -9999px;
+}
+
+.ir:before {
+content: "";
+display: block;
+width: 0;
+height: 150%;
+}
+
+/*
+ * Hide from both screenreaders and browsers: h5bp.com/u
+ */
+.hidden {
+display: none !important;
+visibility: hidden;
+}
+
+/*
+ * Hide only visually, but have it available for screenreaders: h5bp.com/v
+ */
+.visuallyhidden {
+border: 0;
+clip: rect(0 0 0 0);
+height: 1px;
+margin: -1px;
+overflow: hidden;
+padding: 0;
+position: absolute;
+width: 1px;
+}
+
+/*
+ * Extends the .visuallyhidden class to allow the element to be focusable
+ * when navigated to via the keyboard: h5bp.com/p
+ */
+.visuallyhidden.focusable:active,.visuallyhidden.focusable:focus {
+clip: auto;
+height: auto;
+margin: 0;
+overflow: visible;
+position: static;
+width: auto;
+}
+
+/*
+ * Hide visually and from screenreaders, but maintain layout
+ */
+.invisible {
+visibility: hidden;
+}
+
+/*
+ * Clearfix: contain floats
+ *
+ * For modern browsers
+ * 1. The space content is one way to avoid an Opera bug when the
+ *    `contenteditable` attribute is included anywhere else in the document.
+ *    Otherwise it causes space to appear at the top and bottom of elements
+ *    that receive the `clearfix` class.
+ * 2. The use of `table` rather than `block` is only necessary if using
+ *    `:before` to contain the top-margins of child elements.
+ */
+.clearfix:before,.clearfix:after{
+content: " "; /* 1 */
+display: table; /* 2 */
+}
+
+.clearfix:after{
+clear: both;
+}
+
+/*
+ * For IE 6/7 only
+ * Include this rule to trigger hasLayout and contain floats.
+ */
+.clearfix{
+*zoom: 1;
+}
+
+/* ==========================================================================
+   EXAMPLE Media Queries for Responsive Design.
+   These examples override the primary ('mobile first') styles.
+   Modify as content requires.
+   ========================================================================== */
+
+@media only screen and (min-width: 35em) {
+    /* Style adjustments for viewports that meet the condition */
+}
+
+@media print,
+       (-o-min-device-pixel-ratio: 5/4),
+       (-webkit-min-device-pixel-ratio: 1.25),
+       (min-resolution: 120dpi) {
+    /* Style adjustments for high resolution devices */
+}
+
+/* ==========================================================================
+   Print styles.
+   Inlined to avoid required HTTP connection: h5bp.com/r
+   ========================================================================== */
+@media print{
+* {
+background:transparent!important;
+color:#000!important;
+box-shadow:none!important;
+text-shadow:none!important;
+}
+
+a,a:visited {
+text-decoration:underline;
+}
+
+a[href]:after {
+content:" (" attr(href) ")";
+}
+
+abbr[title]:after {
+content:" (" attr(title) ")";
+}
+
+.ir a:after,a[href^="javascript:"]:after,a[href^="#"]:after {
+content:"";
+}
+
+pre,blockquote {
+border:1px solid #999;
+page-break-inside:avoid;
+}
+
+thead {
+display:table-header-group;
+}
+
+tr,img {
+page-break-inside:avoid;
+}
+
+img {
+max-width:100%!important;
+}
+
+@page {
+margin:.5cm;
+}
+
+p,h2,h3 {
+orphans:3;
+widows:3;
+}
+
+h2,h3 {
+page-break-after:avoid;
+}
+}

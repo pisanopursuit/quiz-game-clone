@@ -1,0 +1,1778 @@
+<questions>
+<category>
+<thumb type="" name="History">assets/item_thumb_0.svg</thumb>
+<thumb type="" name="Science">assets/item_thumb_1.svg</thumb>
+<thumb type="" name="Sports">assets/item_thumb_2.svg</thumb>
+<thumb type="" name="Music">assets/item_thumb_3.svg</thumb>
+<thumb type="" name="Trivia">assets/item_thumb_4.svg</thumb>
+<thumb type="" name="Geography">assets/item_thumb_5.svg</thumb>
+<thumb type="" name="Movie">assets/item_thumb_6.svg</thumb>
+<thumb type="" name="Type of Questions">assets/item_thumb_8.svg</thumb>
+<thumb type="" name="All">assets/item_thumb_7.svg</thumb>
+</category>
+<item>
+<category level="1">History</category>
+<landscape>
+<question type="text" audio="assets/sounds/questions/q1.ogg">
+<![CDATA[ Which of these was NOT an event from past Olympic Games? ]]>
+</question>
+<answers correctAnswer="4">
+<answer audio="assets/sounds/questions/q1_a.ogg" top="48" type="text" width="35" left="14" fontSize="33" lineHeight="33" offsetTop="-20">
+<![CDATA[ Live pigeon shooting ]]>
+</answer>
+<answer audio="assets/sounds/questions/q1_b.ogg" top="48" type="text" left="51" width="35" fontSize="33" lineHeight="33" offsetTop="-20">
+<![CDATA[ Underwater swimming ]]>
+</answer>
+<answer audio="assets/sounds/questions/q1_c.ogg" top="65" type="text" left="14" width="35">
+<![CDATA[ Motor boating ]]>
+</answer>
+<answer audio="assets/sounds/questions/q1_d.ogg" top="65" type="text" left="51" width="35">
+<![CDATA[ Netball ]]>
+</answer>
+</answers>
+<inputs/>
+</landscape>
+<portrait>
+<question type="text" fontSize="25" lineHeight="30" top="13" audio="assets/sounds/questions/q1.ogg">
+<![CDATA[ Which of these was NOT an event from past Olympic Games? ]]>
+</question>
+<answers correctAnswer="4">
+<answer audio="assets/sounds/questions/q1_a.ogg" width="90" height="10" top="35" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Live pigeon shooting ]]>
+</answer>
+<answer audio="assets/sounds/questions/q1_b.ogg" width="90" height="10" top="47" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Underwater swimming ]]>
+</answer>
+<answer audio="assets/sounds/questions/q1_c.ogg" width="90" height="10" top="59" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Motor boating ]]>
+</answer>
+<answer audio="assets/sounds/questions/q1_d.ogg" width="90" height="10" top="71" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Netball ]]>
+</answer>
+</answers>
+<inputs/>
+</portrait>
+</item>
+<item>
+<category level="2">History</category>
+<landscape>
+<question type="text" audio="assets/sounds/questions/q2.ogg">
+<![CDATA[ Who was America’s first president? ]]>
+</question>
+<answers correctAnswer="3">
+<answer audio="assets/sounds/questions/q2_a.ogg" top="48" type="text" width="35" left="14">
+<![CDATA[ Edward Hand ]]>
+</answer>
+<answer audio="assets/sounds/questions/q2_b.ogg" top="48" type="text" left="51" width="35">
+<![CDATA[ George Washington ]]>
+</answer>
+<answer audio="assets/sounds/questions/q2_c.ogg" top="65" type="text" left="14" width="35">
+<![CDATA[ Peyton Randolph ]]>
+</answer>
+<answer audio="assets/sounds/questions/q2_d.ogg" top="65" type="text" left="51" width="35">
+<![CDATA[ William Cabell ]]>
+</answer>
+</answers>
+<inputs/>
+</landscape>
+<portrait>
+<question type="text" fontSize="25" lineHeight="30" top="13" audio="assets/sounds/questions/q2.ogg">
+<![CDATA[ Who was America’s first president? ]]>
+</question>
+<answers correctAnswer="3">
+<answer audio="assets/sounds/questions/q2_a.ogg" width="90" height="10" top="35" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Edward Hand ]]>
+</answer>
+<answer audio="assets/sounds/questions/q2_b.ogg" width="90" height="10" top="47" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ George Washington ]]>
+</answer>
+<answer audio="assets/sounds/questions/q2_c.ogg" width="90" height="10" top="59" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Peyton Randolph ]]>
+</answer>
+<answer audio="assets/sounds/questions/q2_d.ogg" width="90" height="10" top="71" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ William Cabell ]]>
+</answer>
+</answers>
+<inputs/>
+</portrait>
+</item>
+<item>
+<category level="3">History</category>
+<landscape>
+<question type="text" audio="assets/sounds/questions/q3.ogg">
+<![CDATA[ How old was Queen Elizabeth II when she became queen? ]]>
+</question>
+<answers correctAnswer="1">
+<answer audio="assets/sounds/questions/q3_a.ogg" top="48" type="text" width="35" left="14">
+<![CDATA[ 27 years old ]]>
+</answer>
+<answer audio="assets/sounds/questions/q3_b.ogg" top="48" type="text" left="51" width="35">
+<![CDATA[ 17 years old ]]>
+</answer>
+<answer audio="assets/sounds/questions/q3_c.ogg" top="65" type="text" left="14" width="35">
+<![CDATA[ 37 years old ]]>
+</answer>
+<answer audio="assets/sounds/questions/q3_d.ogg" top="65" type="text" left="51" width="35">
+<![CDATA[ 47 years old ]]>
+</answer>
+</answers>
+<inputs/>
+</landscape>
+<portrait>
+<question type="text" fontSize="25" lineHeight="30" top="13" audio="assets/sounds/questions/q3.ogg">
+<![CDATA[ How old was Queen Elizabeth II when she became queen? ]]>
+</question>
+<answers correctAnswer="1">
+<answer audio="assets/sounds/questions/q3_a.ogg" width="90" height="10" top="35" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ 27 years old ]]>
+</answer>
+<answer audio="assets/sounds/questions/q3_b.ogg" width="90" height="10" top="47" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ 17 years old ]]>
+</answer>
+<answer audio="assets/sounds/questions/q3_c.ogg" width="90" height="10" top="59" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ 37 years old ]]>
+</answer>
+<answer audio="assets/sounds/questions/q3_d.ogg" width="90" height="10" top="71" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ 47 years old ]]>
+</answer>
+</answers>
+<inputs/>
+</portrait>
+</item>
+<item>
+<category level="4">History</category>
+<landscape>
+<question type="text" audio="assets/sounds/questions/q4.ogg">
+<![CDATA[ What year did the Titanic sink? ]]>
+</question>
+<answers correctAnswer="4">
+<answer audio="assets/sounds/questions/q4_a.ogg" top="48" type="text" width="35" left="14">
+<![CDATA[ 1900 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q4_b.ogg" top="48" type="text" left="51" width="35">
+<![CDATA[ 1937 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q4_c.ogg" top="65" type="text" left="14" width="35">
+<![CDATA[ 1921 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q4_d.ogg" top="65" type="text" left="51" width="35">
+<![CDATA[ 1912 ]]>
+</answer>
+</answers>
+<inputs/>
+</landscape>
+<portrait>
+<question type="text" fontSize="25" lineHeight="30" top="13" audio="assets/sounds/questions/q4.ogg">
+<![CDATA[ What year did the Titanic sink? ]]>
+</question>
+<answers correctAnswer="4">
+<answer audio="assets/sounds/questions/q4_a.ogg" width="90" height="10" top="35" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ 1900 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q4_b.ogg" width="90" height="10" top="47" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ 1937 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q4_c.ogg" width="90" height="10" top="59" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ 1921 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q4_d.ogg" width="90" height="10" top="71" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ 1912 ]]>
+</answer>
+</answers>
+<inputs/>
+</portrait>
+</item>
+<item>
+<category level="5">History</category>
+<landscape>
+<question type="text" audio="assets/sounds/questions/q5.ogg">
+<![CDATA[ What was the name of the first video posted on YouTube? ]]>
+</question>
+<answers correctAnswer="1">
+<answer audio="assets/sounds/questions/q5_a.ogg" top="48" type="text" width="35" left="14">
+<![CDATA[ Me at the zoo ]]>
+</answer>
+<answer audio="assets/sounds/questions/q5_b.ogg" top="48" type="text" left="51" width="35">
+<![CDATA[ Gangnam Style ]]>
+</answer>
+<answer audio="assets/sounds/questions/q5_c.ogg" top="65" type="text" left="14" width="35">
+<![CDATA[ Despacito ]]>
+</answer>
+<answer audio="assets/sounds/questions/q5_d.ogg" top="65" type="text" left="51" width="35">
+<![CDATA[ See You Again ]]>
+</answer>
+</answers>
+<inputs/>
+</landscape>
+<portrait>
+<question type="text" fontSize="25" lineHeight="30" top="13" audio="assets/sounds/questions/q5.ogg">
+<![CDATA[ What was the name of the first video posted on YouTube? ]]>
+</question>
+<answers correctAnswer="1">
+<answer audio="assets/sounds/questions/q5_a.ogg" width="90" height="10" top="35" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Me at the zoo ]]>
+</answer>
+<answer audio="assets/sounds/questions/q5_b.ogg" width="90" height="10" top="47" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Gangnam Style ]]>
+</answer>
+<answer audio="assets/sounds/questions/q5_c.ogg" width="90" height="10" top="59" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Despacito ]]>
+</answer>
+<answer audio="assets/sounds/questions/q5_d.ogg" width="90" height="10" top="71" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ See You Again ]]>
+</answer>
+</answers>
+<inputs/>
+</portrait>
+</item>
+<item>
+<category level="1">Science</category>
+<landscape>
+<question type="text" audio="assets/sounds/questions/q6.ogg">
+<![CDATA[ What kind of energy does that sun create? ]]>
+</question>
+<answers correctAnswer="2">
+<answer audio="assets/sounds/questions/q6_a.ogg" top="48" type="text" width="35" left="14">
+<![CDATA[ Thermal energy ]]>
+</answer>
+<answer audio="assets/sounds/questions/q6_b.ogg" top="48" type="text" left="51" width="35">
+<![CDATA[ Nuclear energy ]]>
+</answer>
+<answer audio="assets/sounds/questions/q6_c.ogg" top="65" type="text" left="14" width="35">
+<![CDATA[ Chemical energy ]]>
+</answer>
+<answer audio="assets/sounds/questions/q6_d.ogg" top="65" type="text" left="51" width="35">
+<![CDATA[ Sonic energy ]]>
+</answer>
+</answers>
+<inputs/>
+</landscape>
+<portrait>
+<question type="text" fontSize="25" lineHeight="30" top="13" audio="assets/sounds/questions/q6.ogg">
+<![CDATA[ What kind of energy does that sun create? ]]>
+</question>
+<answers correctAnswer="2">
+<answer audio="assets/sounds/questions/q6_a.ogg" width="90" height="10" top="35" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Thermal energy ]]>
+</answer>
+<answer audio="assets/sounds/questions/q6_b.ogg" width="90" height="10" top="47" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Nuclear energy ]]>
+</answer>
+<answer audio="assets/sounds/questions/q6_c.ogg" width="90" height="10" top="59" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Chemical energy ]]>
+</answer>
+<answer audio="assets/sounds/questions/q6_d.ogg" width="90" height="10" top="71" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Sonic energy ]]>
+</answer>
+</answers>
+<inputs/>
+</portrait>
+</item>
+<item>
+<category level="2">Science</category>
+<landscape>
+<question type="text" audio="assets/sounds/questions/q7.ogg">
+<![CDATA[ Which animals' fingerprints are almost identical to humans? ]]>
+</question>
+<answers correctAnswer="3">
+<answer audio="assets/sounds/questions/q7_a.ogg" top="48" type="text" width="35" left="14">
+<![CDATA[ Chimpanzee ]]>
+</answer>
+<answer audio="assets/sounds/questions/q7_b.ogg" top="48" type="text" left="51" width="35">
+<![CDATA[ Gorilla ]]>
+</answer>
+<answer audio="assets/sounds/questions/q7_c.ogg" top="65" type="text" left="14" width="35">
+<![CDATA[ Koala bear ]]>
+</answer>
+<answer audio="assets/sounds/questions/q7_d.ogg" top="65" type="text" left="51" width="35">
+<![CDATA[ Dog ]]>
+</answer>
+</answers>
+<inputs/>
+</landscape>
+<portrait>
+<question type="text" fontSize="25" lineHeight="30" top="13" audio="assets/sounds/questions/q7.ogg">
+<![CDATA[ Which animals' fingerprints are almost identical to humans? ]]>
+</question>
+<answers correctAnswer="3">
+<answer audio="assets/sounds/questions/q7_a.ogg" width="90" height="10" top="35" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Chimpanzee ]]>
+</answer>
+<answer audio="assets/sounds/questions/q7_b.ogg" width="90" height="10" top="47" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Gorilla ]]>
+</answer>
+<answer audio="assets/sounds/questions/q7_c.ogg" width="90" height="10" top="59" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Koala bear ]]>
+</answer>
+<answer audio="assets/sounds/questions/q7_d.ogg" width="90" height="10" top="71" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Dog ]]>
+</answer>
+</answers>
+<inputs/>
+</portrait>
+</item>
+<item>
+<category level="3">Science</category>
+<landscape>
+<question type="text" audio="assets/sounds/questions/q8.ogg">
+<![CDATA[ How much time does light take to travel from the sun to the earth? ]]>
+</question>
+<answers correctAnswer="1">
+<answer audio="assets/sounds/questions/q8_a.ogg" top="48" type="text" width="35" left="14">
+<![CDATA[ Eight minutes ]]>
+</answer>
+<answer audio="assets/sounds/questions/q8_b.ogg" top="48" type="text" left="51" width="35">
+<![CDATA[ Eight second ]]>
+</answer>
+<answer audio="assets/sounds/questions/q8_c.ogg" top="65" type="text" left="14" width="35">
+<![CDATA[ Eight hour ]]>
+</answer>
+<answer audio="assets/sounds/questions/q8_d.ogg" top="65" type="text" left="51" width="35">
+<![CDATA[ Eight days ]]>
+</answer>
+</answers>
+<inputs/>
+</landscape>
+<portrait>
+<question type="text" fontSize="25" lineHeight="30" top="13" audio="assets/sounds/questions/q8.ogg">
+<![CDATA[ How much time does light take to travel from the sun to the earth? ]]>
+</question>
+<answers correctAnswer="1">
+<answer audio="assets/sounds/questions/q8_a.ogg" width="90" height="10" top="35" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Eight minutes ]]>
+</answer>
+<answer audio="assets/sounds/questions/q8_b.ogg" width="90" height="10" top="47" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Eight second ]]>
+</answer>
+<answer audio="assets/sounds/questions/q8_c.ogg" width="90" height="10" top="59" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Eight hour ]]>
+</answer>
+<answer audio="assets/sounds/questions/q8_d.ogg" width="90" height="10" top="71" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Eight days ]]>
+</answer>
+</answers>
+<inputs/>
+</portrait>
+</item>
+<item>
+<category level="4">Science</category>
+<landscape>
+<question type="text" audio="assets/sounds/questions/q9.ogg">
+<![CDATA[ The bicycle was invented in which year? ]]>
+</question>
+<answers correctAnswer="3">
+<answer audio="assets/sounds/questions/q9_a.ogg" top="48" type="text" width="35" left="14">
+<![CDATA[ 1830 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q9_b.ogg" top="48" type="text" left="51" width="35">
+<![CDATA[ 1827 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q9_c.ogg" top="65" type="text" left="14" width="35">
+<![CDATA[ 1817 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q9_d.ogg" top="65" type="text" left="51" width="35">
+<![CDATA[ 1810 ]]>
+</answer>
+</answers>
+<inputs/>
+</landscape>
+<portrait>
+<question type="text" fontSize="25" lineHeight="30" top="13" audio="assets/sounds/questions/q9.ogg">
+<![CDATA[ The bicycle was invented in which year? ]]>
+</question>
+<answers correctAnswer="3">
+<answer audio="assets/sounds/questions/q9_a.ogg" width="90" height="10" top="35" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ 1830 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q9_b.ogg" width="90" height="10" top="47" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ 1827 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q9_c.ogg" width="90" height="10" top="59" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ 1817 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q9_d.ogg" width="90" height="10" top="71" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ 1810 ]]>
+</answer>
+</answers>
+<inputs/>
+</portrait>
+</item>
+<item>
+<category level="5">Science</category>
+<landscape>
+<question type="text" audio="assets/sounds/questions/q10.ogg">
+<![CDATA[ When did the data storage device, known as a compact device, first appear on the market? ]]>
+</question>
+<answers correctAnswer="1">
+<answer audio="assets/sounds/questions/q10_a.ogg" top="48" type="text" width="35" left="14">
+<![CDATA[ 1982 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q10_b.ogg" top="48" type="text" left="51" width="35">
+<![CDATA[ 1983 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q10_c.ogg" top="65" type="text" left="14" width="35">
+<![CDATA[ 1980 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q10_d.ogg" top="65" type="text" left="51" width="35">
+<![CDATA[ 1975 ]]>
+</answer>
+</answers>
+<inputs/>
+</landscape>
+<portrait>
+<question type="text" fontSize="25" lineHeight="30" top="13" audio="assets/sounds/questions/q10.ogg">
+<![CDATA[ When did the data storage device, known as a compact device, first appear on the market? ]]>
+</question>
+<answers correctAnswer="1">
+<answer audio="assets/sounds/questions/q10_a.ogg" width="90" height="10" top="35" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ 1982 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q10_b.ogg" width="90" height="10" top="47" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ 1983 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q10_c.ogg" width="90" height="10" top="59" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ 1980 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q10_d.ogg" width="90" height="10" top="71" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ 1975 ]]>
+</answer>
+</answers>
+<inputs/>
+</portrait>
+</item>
+<item>
+<category level="1">Sports</category>
+<landscape>
+<question type="text" audio="assets/sounds/questions/q11.ogg">
+<![CDATA[ How many NBA championships did Michael Jordan win with the Chicago Bulls? ]]>
+</question>
+<answers correctAnswer="2">
+<answer audio="assets/sounds/questions/q11_a.ogg" top="48" type="text" width="35" left="14">
+<![CDATA[ 5 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q11_b.ogg" top="48" type="text" left="51" width="35">
+<![CDATA[ 6 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q11_c.ogg" top="65" type="text" left="14" width="35">
+<![CDATA[ 7 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q11_d.ogg" top="65" type="text" left="51" width="35">
+<![CDATA[ 8 ]]>
+</answer>
+</answers>
+<inputs/>
+</landscape>
+<portrait>
+<question type="text" fontSize="25" lineHeight="30" top="13" audio="assets/sounds/questions/q11.ogg">
+<![CDATA[ How many NBA championships did Michael Jordan win with the Chicago Bulls? ]]>
+</question>
+<answers correctAnswer="2">
+<answer audio="assets/sounds/questions/q11_a.ogg" width="90" height="10" top="35" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ 5 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q11_b.ogg" width="90" height="10" top="47" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ 6 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q11_c.ogg" width="90" height="10" top="59" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ 7 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q11_d.ogg" width="90" height="10" top="71" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ 8 ]]>
+</answer>
+</answers>
+<inputs/>
+</portrait>
+</item>
+<item>
+<category level="2">Sports</category>
+<landscape>
+<question type="text" audio="assets/sounds/questions/q12.ogg">
+<![CDATA[ How many gold medals has Usain Bolt won? ]]>
+</question>
+<answers correctAnswer="4">
+<answer audio="assets/sounds/questions/q12_a.ogg" top="48" type="text" width="35" left="14">
+<![CDATA[ 5 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q12_b.ogg" top="48" type="text" left="51" width="35">
+<![CDATA[ 20 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q12_c.ogg" top="65" type="text" left="14" width="35">
+<![CDATA[ 10 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q12_d.ogg" top="65" type="text" left="51" width="35">
+<![CDATA[ 8 ]]>
+</answer>
+</answers>
+<inputs/>
+</landscape>
+<portrait>
+<question type="text" fontSize="25" lineHeight="30" top="13" audio="assets/sounds/questions/q12.ogg">
+<![CDATA[ How many gold medals has Usain Bolt won? ]]>
+</question>
+<answers correctAnswer="4">
+<answer audio="assets/sounds/questions/q12_a.ogg" width="90" height="10" top="35" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ 5 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q12_b.ogg" width="90" height="10" top="47" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ 20 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q12_c.ogg" width="90" height="10" top="59" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ 10 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q12_d.ogg" width="90" height="10" top="71" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ 8 ]]>
+</answer>
+</answers>
+<inputs/>
+</portrait>
+</item>
+<item>
+<category level="3">Sports</category>
+<landscape>
+<question type="text" audio="assets/sounds/questions/q13.ogg">
+<![CDATA[ Which country won the first ever football world cup? ]]>
+</question>
+<answers correctAnswer="2">
+<answer audio="assets/sounds/questions/q13_a.ogg" top="48" type="text" width="35" left="14">
+<![CDATA[ Brazil ]]>
+</answer>
+<answer audio="assets/sounds/questions/q13_b.ogg" top="48" type="text" left="51" width="35">
+<![CDATA[ Uruguay ]]>
+</answer>
+<answer audio="assets/sounds/questions/q13_c.ogg" top="65" type="text" left="14" width="35">
+<![CDATA[ Argentina ]]>
+</answer>
+<answer audio="assets/sounds/questions/q13_d.ogg" top="65" type="text" left="51" width="35">
+<![CDATA[ England ]]>
+</answer>
+</answers>
+<inputs/>
+</landscape>
+<portrait>
+<question type="text" fontSize="25" lineHeight="30" top="13" audio="assets/sounds/questions/q13.ogg">
+<![CDATA[ Which country won the first ever football world cup? ]]>
+</question>
+<answers correctAnswer="2">
+<answer audio="assets/sounds/questions/q13_a.ogg" width="90" height="10" top="35" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Brazil ]]>
+</answer>
+<answer audio="assets/sounds/questions/q13_b.ogg" width="90" height="10" top="47" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Uruguay ]]>
+</answer>
+<answer audio="assets/sounds/questions/q13_c.ogg" width="90" height="10" top="59" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Argentina ]]>
+</answer>
+<answer audio="assets/sounds/questions/q13_d.ogg" width="90" height="10" top="71" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ England ]]>
+</answer>
+</answers>
+<inputs/>
+</portrait>
+</item>
+<item>
+<category level="4">Sports</category>
+<landscape>
+<question type="text" audio="assets/sounds/questions/q14.ogg">
+<![CDATA[ What is the only sport to be played on the moon? ]]>
+</question>
+<answers correctAnswer="1">
+<answer audio="assets/sounds/questions/q14_a.ogg" top="48" type="text" width="35" left="14">
+<![CDATA[ Golf ]]>
+</answer>
+<answer audio="assets/sounds/questions/q14_b.ogg" top="48" type="text" left="51" width="35">
+<![CDATA[ F1 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q14_c.ogg" top="65" type="text" left="14" width="35">
+<![CDATA[ Football ]]>
+</answer>
+<answer audio="assets/sounds/questions/q14_d.ogg" top="65" type="text" left="51" width="35">
+<![CDATA[ Tennis Ball ]]>
+</answer>
+</answers>
+<inputs/>
+</landscape>
+<portrait>
+<question type="text" fontSize="25" lineHeight="30" top="13" audio="assets/sounds/questions/q14.ogg">
+<![CDATA[ What is the only sport to be played on the moon? ]]>
+</question>
+<answers correctAnswer="1">
+<answer audio="assets/sounds/questions/q14_a.ogg" width="90" height="10" top="35" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Golf ]]>
+</answer>
+<answer audio="assets/sounds/questions/q14_b.ogg" width="90" height="10" top="47" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ F1 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q14_c.ogg" width="90" height="10" top="59" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Football ]]>
+</answer>
+<answer audio="assets/sounds/questions/q14_d.ogg" width="90" height="10" top="71" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Tennis Ball ]]>
+</answer>
+</answers>
+<inputs/>
+</portrait>
+</item>
+<item>
+<category level="5">Sports</category>
+<landscape>
+<question type="text" audio="assets/sounds/questions/q15.ogg">
+<![CDATA[ What sport is described as “the beautiful game?” ]]>
+</question>
+<answers correctAnswer="1">
+<answer audio="assets/sounds/questions/q15_a.ogg" top="48" type="text" width="35" left="14">
+<![CDATA[ Football ]]>
+</answer>
+<answer audio="assets/sounds/questions/q15_b.ogg" top="48" type="text" left="51" width="35">
+<![CDATA[ Basketball ]]>
+</answer>
+<answer audio="assets/sounds/questions/q15_c.ogg" top="65" type="text" left="14" width="35">
+<![CDATA[ Tennis ]]>
+</answer>
+<answer audio="assets/sounds/questions/q15_d.ogg" top="65" type="text" left="51" width="35">
+<![CDATA[ Rugby ]]>
+</answer>
+</answers>
+<inputs/>
+</landscape>
+<portrait>
+<question type="text" fontSize="25" lineHeight="30" top="13" audio="assets/sounds/questions/q15.ogg">
+<![CDATA[ What sport is described as “the beautiful game?” ]]>
+</question>
+<answers correctAnswer="1">
+<answer audio="assets/sounds/questions/q15_a.ogg" width="90" height="10" top="35" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Football ]]>
+</answer>
+<answer audio="assets/sounds/questions/q15_b.ogg" width="90" height="10" top="47" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Basketball ]]>
+</answer>
+<answer audio="assets/sounds/questions/q15_c.ogg" width="90" height="10" top="59" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Tennis ]]>
+</answer>
+<answer audio="assets/sounds/questions/q15_d.ogg" width="90" height="10" top="71" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Rugby ]]>
+</answer>
+</answers>
+<inputs/>
+</portrait>
+</item>
+<item>
+<category level="1">Music</category>
+<landscape>
+<question type="text" audio="assets/sounds/questions/q16.ogg">
+<![CDATA[ How many members are there in Korean boy band – BTS? ]]>
+</question>
+<answers correctAnswer="2">
+<answer audio="assets/sounds/questions/q16_a.ogg" top="48" type="text" width="35" left="14">
+<![CDATA[ Eight ]]>
+</answer>
+<answer audio="assets/sounds/questions/q16_b.ogg" top="48" type="text" left="51" width="35">
+<![CDATA[ Seven ]]>
+</answer>
+<answer audio="assets/sounds/questions/q16_c.ogg" top="65" type="text" left="14" width="35">
+<![CDATA[ Six ]]>
+</answer>
+<answer audio="assets/sounds/questions/q16_d.ogg" top="65" type="text" left="51" width="35">
+<![CDATA[ Two ]]>
+</answer>
+</answers>
+<inputs/>
+</landscape>
+<portrait>
+<question type="text" fontSize="25" lineHeight="30" top="13" audio="assets/sounds/questions/q16.ogg">
+<![CDATA[ How many members are there in Korean boy band – BTS? ]]>
+</question>
+<answers correctAnswer="2">
+<answer audio="assets/sounds/questions/q16_a.ogg" width="90" height="10" top="35" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Eight ]]>
+</answer>
+<answer audio="assets/sounds/questions/q16_b.ogg" width="90" height="10" top="47" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Seven ]]>
+</answer>
+<answer audio="assets/sounds/questions/q16_c.ogg" width="90" height="10" top="59" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Six ]]>
+</answer>
+<answer audio="assets/sounds/questions/q16_d.ogg" width="90" height="10" top="71" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Two ]]>
+</answer>
+</answers>
+<inputs/>
+</portrait>
+</item>
+<item>
+<category level="2">Music</category>
+<landscape>
+<question type="text" audio="assets/sounds/questions/q17.ogg">
+<![CDATA[ Who is the best-selling female artist of all time? ]]>
+</question>
+<answers correctAnswer="2">
+<answer audio="assets/sounds/questions/q17_a.ogg" top="48" type="text" width="35" left="14">
+<![CDATA[ Lady Gaga ]]>
+</answer>
+<answer audio="assets/sounds/questions/q17_b.ogg" top="48" type="text" left="51" width="35">
+<![CDATA[ Madonna ]]>
+</answer>
+<answer audio="assets/sounds/questions/q17_c.ogg" top="65" type="text" left="14" width="35">
+<![CDATA[ Beyonce ]]>
+</answer>
+<answer audio="assets/sounds/questions/q17_d.ogg" top="65" type="text" left="51" width="35">
+<![CDATA[ Taylor Swift ]]>
+</answer>
+</answers>
+<inputs/>
+</landscape>
+<portrait>
+<question type="text" fontSize="25" lineHeight="30" top="13" audio="assets/sounds/questions/q17.ogg">
+<![CDATA[ Who is the best-selling female artist of all time? ]]>
+</question>
+<answers correctAnswer="2">
+<answer audio="assets/sounds/questions/q17_a.ogg" width="90" height="10" top="35" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Lady Gaga ]]>
+</answer>
+<answer audio="assets/sounds/questions/q17_b.ogg" width="90" height="10" top="47" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Madonna ]]>
+</answer>
+<answer audio="assets/sounds/questions/q17_c.ogg" width="90" height="10" top="59" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Beyonce ]]>
+</answer>
+<answer audio="assets/sounds/questions/q17_d.ogg" width="90" height="10" top="71" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Taylor Swift ]]>
+</answer>
+</answers>
+<inputs/>
+</portrait>
+</item>
+<item>
+<category level="3">Music</category>
+<landscape>
+<question type="text" audio="assets/sounds/questions/q18.ogg">
+<![CDATA[ Which Super Bowl Halftime Show performer was upstaged by a dancing shark? ]]>
+</question>
+<answers correctAnswer="1">
+<answer audio="assets/sounds/questions/q18_a.ogg" top="48" type="text" width="35" left="14">
+<![CDATA[ Katy Perry ]]>
+</answer>
+<answer audio="assets/sounds/questions/q18_b.ogg" top="48" type="text" left="51" width="35">
+<![CDATA[ The Weekend ]]>
+</answer>
+<answer audio="assets/sounds/questions/q18_c.ogg" top="65" type="text" left="14" width="35">
+<![CDATA[ Madonna ]]>
+</answer>
+<answer audio="assets/sounds/questions/q18_d.ogg" top="65" type="text" left="51" width="35">
+<![CDATA[ Bruno Mars ]]>
+</answer>
+</answers>
+<inputs/>
+</landscape>
+<portrait>
+<question type="text" fontSize="25" lineHeight="30" top="13" audio="assets/sounds/questions/q18.ogg">
+<![CDATA[ Which Super Bowl Halftime Show performer was upstaged by a dancing shark? ]]>
+</question>
+<answers correctAnswer="1">
+<answer audio="assets/sounds/questions/q18_a.ogg" width="90" height="10" top="35" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Katy Perry ]]>
+</answer>
+<answer audio="assets/sounds/questions/q18_b.ogg" width="90" height="10" top="47" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ The Weekend ]]>
+</answer>
+<answer audio="assets/sounds/questions/q18_c.ogg" width="90" height="10" top="59" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Madonna ]]>
+</answer>
+<answer audio="assets/sounds/questions/q18_d.ogg" width="90" height="10" top="71" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Bruno Mars ]]>
+</answer>
+</answers>
+<inputs/>
+</portrait>
+</item>
+<item>
+<category level="4">Music</category>
+<landscape>
+<question type="text" audio="assets/sounds/questions/q19.ogg">
+<![CDATA[ Who was the very first American Idol winner? ]]>
+</question>
+<answers correctAnswer="4">
+<answer audio="assets/sounds/questions/q19_a.ogg" top="48" type="text" width="35" left="14">
+<![CDATA[ Laine Hardy ]]>
+</answer>
+<answer audio="assets/sounds/questions/q19_b.ogg" top="48" type="text" left="51" width="35">
+<![CDATA[ Maddie Poppe ]]>
+</answer>
+<answer audio="assets/sounds/questions/q19_c.ogg" top="65" type="text" left="14" width="35">
+<![CDATA[ Taylor Hicks ]]>
+</answer>
+<answer audio="assets/sounds/questions/q19_d.ogg" top="65" type="text" left="51" width="35">
+<![CDATA[ Kelly Clarkson ]]>
+</answer>
+</answers>
+<inputs/>
+</landscape>
+<portrait>
+<question type="text" fontSize="25" lineHeight="30" top="13" audio="assets/sounds/questions/q19.ogg">
+<![CDATA[ Who was the very first American Idol winner? ]]>
+</question>
+<answers correctAnswer="4">
+<answer audio="assets/sounds/questions/q19_a.ogg" width="90" height="10" top="35" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Laine Hardy ]]>
+</answer>
+<answer audio="assets/sounds/questions/q19_b.ogg" width="90" height="10" top="47" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Maddie Poppe ]]>
+</answer>
+<answer audio="assets/sounds/questions/q19_c.ogg" width="90" height="10" top="59" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Taylor Hicks ]]>
+</answer>
+<answer audio="assets/sounds/questions/q19_d.ogg" width="90" height="10" top="71" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Kelly Clarkson ]]>
+</answer>
+</answers>
+<inputs/>
+</portrait>
+</item>
+<item>
+<category level="5">Music</category>
+<landscape>
+<question type="text" audio="assets/sounds/questions/q20.ogg">
+<![CDATA[ What pop star wrote songs for Ariana Grande, Miley Cyrus, Britney Spears and Alice Cooper? ]]>
+</question>
+<answers correctAnswer="2">
+<answer audio="assets/sounds/questions/q20_a.ogg" top="48" type="text" width="35" left="14">
+<![CDATA[ Britney Spears ]]>
+</answer>
+<answer audio="assets/sounds/questions/q20_b.ogg" top="48" type="text" left="51" width="35">
+<![CDATA[ Kesha ]]>
+</answer>
+<answer audio="assets/sounds/questions/q20_c.ogg" top="65" type="text" left="14" width="35">
+<![CDATA[ Pitbull ]]>
+</answer>
+<answer audio="assets/sounds/questions/q20_d.ogg" top="65" type="text" left="51" width="35">
+<![CDATA[ Nicki Minaj ]]>
+</answer>
+</answers>
+<inputs/>
+</landscape>
+<portrait>
+<question type="text" fontSize="25" lineHeight="30" top="13" audio="assets/sounds/questions/q20.ogg">
+<![CDATA[ What pop star wrote songs for Ariana Grande, Miley Cyrus, Britney Spears and Alice Cooper? ]]>
+</question>
+<answers correctAnswer="2">
+<answer audio="assets/sounds/questions/q20_a.ogg" width="90" height="10" top="35" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Britney Spears ]]>
+</answer>
+<answer audio="assets/sounds/questions/q20_b.ogg" width="90" height="10" top="47" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Kesha ]]>
+</answer>
+<answer audio="assets/sounds/questions/q20_c.ogg" width="90" height="10" top="59" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Pitbull ]]>
+</answer>
+<answer audio="assets/sounds/questions/q20_d.ogg" width="90" height="10" top="71" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Nicki Minaj ]]>
+</answer>
+</answers>
+<inputs/>
+</portrait>
+</item>
+<item>
+<category level="1">Movie</category>
+<landscape>
+<question type="text" audio="assets/sounds/questions/q21.ogg">
+<![CDATA[ Who actually drew the sketch of Rose in Titanic? ]]>
+</question>
+<answers correctAnswer="2">
+<answer audio="assets/sounds/questions/q21_a.ogg" top="48" type="text" width="35" left="14">
+<![CDATA[ Billy Zane ]]>
+</answer>
+<answer audio="assets/sounds/questions/q21_b.ogg" top="48" type="text" left="51" width="35">
+<![CDATA[ Leonardo DiCaprio ]]>
+</answer>
+<answer audio="assets/sounds/questions/q21_c.ogg" top="65" type="text" left="14" width="35">
+<![CDATA[ James Cameron ]]>
+</answer>
+<answer audio="assets/sounds/questions/q21_d.ogg" top="65" type="text" left="51" width="35">
+<![CDATA[ Kathy Bates ]]>
+</answer>
+</answers>
+<inputs/>
+</landscape>
+<portrait>
+<question type="text" fontSize="25" lineHeight="30" top="13" audio="assets/sounds/questions/q21.ogg">
+<![CDATA[ Who actually drew the sketch of Rose in Titanic? ]]>
+</question>
+<answers correctAnswer="2">
+<answer audio="assets/sounds/questions/q21_a.ogg" width="90" height="10" top="35" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Billy Zane ]]>
+</answer>
+<answer audio="assets/sounds/questions/q21_b.ogg" width="90" height="10" top="47" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Leonardo DiCaprio ]]>
+</answer>
+<answer audio="assets/sounds/questions/q21_c.ogg" width="90" height="10" top="59" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ James Cameron ]]>
+</answer>
+<answer audio="assets/sounds/questions/q21_d.ogg" width="90" height="10" top="71" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Kathy Bates ]]>
+</answer>
+</answers>
+<inputs/>
+</portrait>
+</item>
+<item>
+<category level="2">Movie</category>
+<landscape>
+<question type="text" audio="assets/sounds/questions/q22.ogg">
+<![CDATA[ Where were The Lord of the Rings movies filmed? ]]>
+</question>
+<answers correctAnswer="3">
+<answer audio="assets/sounds/questions/q22_a.ogg" top="48" type="text" width="35" left="14">
+<![CDATA[ Ireland ]]>
+</answer>
+<answer audio="assets/sounds/questions/q22_b.ogg" top="48" type="text" left="51" width="35">
+<![CDATA[ Iceland ]]>
+</answer>
+<answer audio="assets/sounds/questions/q22_c.ogg" top="65" type="text" left="14" width="35">
+<![CDATA[ New Zealand ]]>
+</answer>
+<answer audio="assets/sounds/questions/q22_d.ogg" top="65" type="text" left="51" width="35">
+<![CDATA[ Australia ]]>
+</answer>
+</answers>
+<inputs/>
+</landscape>
+<portrait>
+<question type="text" fontSize="25" lineHeight="30" top="13" audio="assets/sounds/questions/q22.ogg">
+<![CDATA[ Where were The Lord of the Rings movies filmed? ]]>
+</question>
+<answers correctAnswer="3">
+<answer audio="assets/sounds/questions/q22_a.ogg" width="90" height="10" top="35" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Ireland ]]>
+</answer>
+<answer audio="assets/sounds/questions/q22_b.ogg" width="90" height="10" top="47" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Iceland ]]>
+</answer>
+<answer audio="assets/sounds/questions/q22_c.ogg" width="90" height="10" top="59" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ New Zealand ]]>
+</answer>
+<answer audio="assets/sounds/questions/q22_d.ogg" width="90" height="10" top="71" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Australia ]]>
+</answer>
+</answers>
+<inputs/>
+</portrait>
+</item>
+<item>
+<category level="3">Movie</category>
+<landscape>
+<question type="text" audio="assets/sounds/questions/q23.ogg">
+<![CDATA[ The code in The Matrix comes from what food recipes? ]]>
+</question>
+<answers correctAnswer="1">
+<answer audio="assets/sounds/questions/q23_a.ogg" top="48" type="text" width="35" left="14">
+<![CDATA[ Sushi recipes ]]>
+</answer>
+<answer audio="assets/sounds/questions/q23_b.ogg" top="48" type="text" left="51" width="35">
+<![CDATA[ Dumpling recipes ]]>
+</answer>
+<answer audio="assets/sounds/questions/q23_c.ogg" top="65" type="text" left="14" width="35">
+<![CDATA[ Stir-fry recipes ]]>
+</answer>
+<answer audio="assets/sounds/questions/q23_d.ogg" top="65" type="text" left="51" width="35">
+<![CDATA[ Pad thai recipes ]]>
+</answer>
+</answers>
+<inputs/>
+</landscape>
+<portrait>
+<question type="text" fontSize="25" lineHeight="30" top="13" audio="assets/sounds/questions/q23.ogg">
+<![CDATA[ The code in The Matrix comes from what food recipes? ]]>
+</question>
+<answers correctAnswer="1">
+<answer audio="assets/sounds/questions/q23_a.ogg" width="90" height="10" top="35" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Sushi recipes ]]>
+</answer>
+<answer audio="assets/sounds/questions/q23_b.ogg" width="90" height="10" top="47" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Dumpling recipes ]]>
+</answer>
+<answer audio="assets/sounds/questions/q23_c.ogg" width="90" height="10" top="59" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Stir-fry recipes ]]>
+</answer>
+<answer audio="assets/sounds/questions/q23_d.ogg" width="90" height="10" top="71" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Pad thai recipes ]]>
+</answer>
+</answers>
+<inputs/>
+</portrait>
+</item>
+<item>
+<category level="4">Movie</category>
+<landscape>
+<question type="text" audio="assets/sounds/questions/q24.ogg">
+<![CDATA[ Which actor was in the following movies: The Outsiders, Wayne’s World, and Tommy Boy? ]]>
+</question>
+<answers correctAnswer="3">
+<answer audio="assets/sounds/questions/q24_a.ogg" top="48" type="text" width="35" left="14">
+<![CDATA[ Tom Cruise ]]>
+</answer>
+<answer audio="assets/sounds/questions/q24_b.ogg" top="48" type="text" left="51" width="35">
+<![CDATA[ Matt Dillon ]]>
+</answer>
+<answer audio="assets/sounds/questions/q24_c.ogg" top="65" type="text" left="14" width="35">
+<![CDATA[ Rob Lowe ]]>
+</answer>
+<answer audio="assets/sounds/questions/q24_d.ogg" top="65" type="text" left="51" width="35">
+<![CDATA[ Thomas Howell ]]>
+</answer>
+</answers>
+<inputs/>
+</landscape>
+<portrait>
+<question type="text" fontSize="25" lineHeight="30" top="13" audio="assets/sounds/questions/q24.ogg">
+<![CDATA[ Which actor was in the following movies: The Outsiders, Wayne’s World, and Tommy Boy? ]]>
+</question>
+<answers correctAnswer="3">
+<answer audio="assets/sounds/questions/q24_a.ogg" width="90" height="10" top="35" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Tom Cruise ]]>
+</answer>
+<answer audio="assets/sounds/questions/q24_b.ogg" width="90" height="10" top="47" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Matt Dillon ]]>
+</answer>
+<answer audio="assets/sounds/questions/q24_c.ogg" width="90" height="10" top="59" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Rob Lowe ]]>
+</answer>
+<answer audio="assets/sounds/questions/q24_d.ogg" width="90" height="10" top="71" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Thomas Howell ]]>
+</answer>
+</answers>
+<inputs/>
+</portrait>
+</item>
+<item>
+<category level="5">Movie</category>
+<landscape>
+<question type="text" audio="assets/sounds/questions/q25.ogg">
+<![CDATA[ Who was the first Black person to win an Oscar? ]]>
+</question>
+<answers correctAnswer="1">
+<answer audio="assets/sounds/questions/q25_a.ogg" top="48" type="text" width="35" left="14">
+<![CDATA[ Hattie McDaniel ]]>
+</answer>
+<answer audio="assets/sounds/questions/q25_b.ogg" top="48" type="text" left="51" width="35">
+<![CDATA[ Sidney Poitier ]]>
+</answer>
+<answer audio="assets/sounds/questions/q25_c.ogg" top="65" type="text" left="14" width="35">
+<![CDATA[ Dorothy Dandridge ]]>
+</answer>
+<answer audio="assets/sounds/questions/q25_d.ogg" top="65" type="text" left="51" width="35">
+<![CDATA[ James Earl Jones ]]>
+</answer>
+</answers>
+<inputs/>
+</landscape>
+<portrait>
+<question type="text" fontSize="25" lineHeight="30" top="13" audio="assets/sounds/questions/q25.ogg">
+<![CDATA[ Who was the first Black person to win an Oscar? ]]>
+</question>
+<answers correctAnswer="1">
+<answer audio="assets/sounds/questions/q25_a.ogg" width="90" height="10" top="35" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Hattie McDaniel ]]>
+</answer>
+<answer audio="assets/sounds/questions/q25_b.ogg" width="90" height="10" top="47" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Sidney Poitier ]]>
+</answer>
+<answer audio="assets/sounds/questions/q25_c.ogg" width="90" height="10" top="59" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Dorothy Dandridge ]]>
+</answer>
+<answer audio="assets/sounds/questions/q25_d.ogg" width="90" height="10" top="71" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ James Earl Jones ]]>
+</answer>
+</answers>
+<inputs/>
+</portrait>
+</item>
+<item>
+<category level="1">Trivia</category>
+<landscape>
+<question type="text" audio="assets/sounds/questions/q26.ogg">
+<![CDATA[ What shape is a stop sign? ]]>
+</question>
+<answers correctAnswer="2">
+<answer audio="assets/sounds/questions/q26_a.ogg" top="48" type="text" width="35" left="14">
+<![CDATA[ Hexagon ]]>
+</answer>
+<answer audio="assets/sounds/questions/q26_b.ogg" top="48" type="text" left="51" width="35">
+<![CDATA[ Octagon ]]>
+</answer>
+<answer audio="assets/sounds/questions/q26_c.ogg" top="65" type="text" left="14" width="35">
+<![CDATA[ Pentagon ]]>
+</answer>
+<answer audio="assets/sounds/questions/q26_d.ogg" top="65" type="text" left="51" width="35">
+<![CDATA[ Nonagon ]]>
+</answer>
+</answers>
+<inputs/>
+</landscape>
+<portrait>
+<question type="text" fontSize="25" lineHeight="30" top="13" audio="assets/sounds/questions/q26.ogg">
+<![CDATA[ What shape is a stop sign? ]]>
+</question>
+<answers correctAnswer="2">
+<answer audio="assets/sounds/questions/q26_a.ogg" width="90" height="10" top="35" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Hexagon ]]>
+</answer>
+<answer audio="assets/sounds/questions/q26_b.ogg" width="90" height="10" top="47" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Octagon ]]>
+</answer>
+<answer audio="assets/sounds/questions/q26_c.ogg" width="90" height="10" top="59" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Pentagon ]]>
+</answer>
+<answer audio="assets/sounds/questions/q26_d.ogg" width="90" height="10" top="71" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Nonagon ]]>
+</answer>
+</answers>
+<inputs/>
+</portrait>
+</item>
+<item>
+<category level="2">Trivia</category>
+<landscape>
+<question type="text" audio="assets/sounds/questions/q27.ogg">
+<![CDATA[ Frogs are classified as: ]]>
+</question>
+<answers correctAnswer="2">
+<answer audio="assets/sounds/questions/q27_a.ogg" top="48" type="text" width="35" left="14">
+<![CDATA[ Mammals ]]>
+</answer>
+<answer audio="assets/sounds/questions/q27_b.ogg" top="48" type="text" left="51" width="35">
+<![CDATA[ Amphibians ]]>
+</answer>
+<answer audio="assets/sounds/questions/q27_c.ogg" top="65" type="text" left="14" width="35">
+<![CDATA[ Fish ]]>
+</answer>
+<answer audio="assets/sounds/questions/q27_d.ogg" top="65" type="text" left="51" width="35">
+<![CDATA[ Bird ]]>
+</answer>
+</answers>
+<inputs/>
+</landscape>
+<portrait>
+<question type="text" fontSize="25" lineHeight="30" top="13" audio="assets/sounds/questions/q27.ogg">
+<![CDATA[ Frogs are classified as: ]]>
+</question>
+<answers correctAnswer="2">
+<answer audio="assets/sounds/questions/q27_a.ogg" width="90" height="10" top="35" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Mammals ]]>
+</answer>
+<answer audio="assets/sounds/questions/q27_b.ogg" width="90" height="10" top="47" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Amphibians ]]>
+</answer>
+<answer audio="assets/sounds/questions/q27_c.ogg" width="90" height="10" top="59" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Fish ]]>
+</answer>
+<answer audio="assets/sounds/questions/q27_d.ogg" width="90" height="10" top="71" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Bird ]]>
+</answer>
+</answers>
+<inputs/>
+</portrait>
+</item>
+<item>
+<category level="3">Trivia</category>
+<landscape>
+<question type="text" audio="assets/sounds/questions/q28.ogg">
+<![CDATA[ If you tipped 20% on a $15 bill, how much would tip be? ]]>
+</question>
+<answers correctAnswer="2">
+<answer audio="assets/sounds/questions/q28_a.ogg" top="48" type="text" width="35" left="14">
+<![CDATA[ $1.50 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q28_b.ogg" top="48" type="text" left="51" width="35">
+<![CDATA[ $2.00 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q28_c.ogg" top="65" type="text" left="14" width="35">
+<![CDATA[ $3.00 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q28_d.ogg" top="65" type="text" left="51" width="35">
+<![CDATA[ $5.00 ]]>
+</answer>
+</answers>
+<inputs/>
+</landscape>
+<portrait>
+<question type="text" fontSize="25" lineHeight="30" top="13" audio="assets/sounds/questions/q28.ogg">
+<![CDATA[ If you tipped 20% on a $15 bill, how much would tip be? ]]>
+</question>
+<answers correctAnswer="2">
+<answer audio="assets/sounds/questions/q28_a.ogg" width="90" height="10" top="35" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ $1.50 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q28_b.ogg" width="90" height="10" top="47" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ $2.00 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q28_c.ogg" width="90" height="10" top="59" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ $3.00 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q28_d.ogg" width="90" height="10" top="71" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ $5.00 ]]>
+</answer>
+</answers>
+<inputs/>
+</portrait>
+</item>
+<item>
+<category level="4">Trivia</category>
+<landscape>
+<question type="text" audio="assets/sounds/questions/q29.ogg">
+<![CDATA[ Speaking of Caesar, a Caesar salad usually consists of which type of green? ]]>
+</question>
+<answers correctAnswer="2">
+<answer audio="assets/sounds/questions/q29_a.ogg" top="48" type="text" width="35" left="14">
+<![CDATA[ Cabbage ]]>
+</answer>
+<answer audio="assets/sounds/questions/q29_b.ogg" top="48" type="text" left="51" width="35">
+<![CDATA[ Romaine ]]>
+</answer>
+<answer audio="assets/sounds/questions/q29_c.ogg" top="65" type="text" left="14" width="35">
+<![CDATA[ Arugula ]]>
+</answer>
+<answer audio="assets/sounds/questions/q29_d.ogg" top="65" type="text" left="51" width="35">
+<![CDATA[ Spinach ]]>
+</answer>
+</answers>
+<inputs/>
+</landscape>
+<portrait>
+<question type="text" fontSize="25" lineHeight="30" top="13" audio="assets/sounds/questions/q29.ogg">
+<![CDATA[ Speaking of Caesar, a Caesar salad usually consists of which type of green? ]]>
+</question>
+<answers correctAnswer="2">
+<answer audio="assets/sounds/questions/q29_a.ogg" width="90" height="10" top="35" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Cabbage ]]>
+</answer>
+<answer audio="assets/sounds/questions/q29_b.ogg" width="90" height="10" top="47" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Romaine ]]>
+</answer>
+<answer audio="assets/sounds/questions/q29_c.ogg" width="90" height="10" top="59" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Arugula ]]>
+</answer>
+<answer audio="assets/sounds/questions/q29_d.ogg" width="90" height="10" top="71" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Spinach ]]>
+</answer>
+</answers>
+<inputs/>
+</portrait>
+</item>
+<item>
+<category level="5">Trivia</category>
+<landscape>
+<question type="text" audio="assets/sounds/questions/q30.ogg">
+<![CDATA[ How many times did Ross Geller marry and divorce on "Friends"? ]]>
+</question>
+<answers correctAnswer="3">
+<answer audio="assets/sounds/questions/q30_a.ogg" top="48" type="text" width="35" left="14">
+<![CDATA[ 1 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q30_b.ogg" top="48" type="text" left="51" width="35">
+<![CDATA[ 2 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q30_c.ogg" top="65" type="text" left="14" width="35">
+<![CDATA[ 3 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q30_d.ogg" top="65" type="text" left="51" width="35">
+<![CDATA[ 4 ]]>
+</answer>
+</answers>
+<inputs/>
+</landscape>
+<portrait>
+<question type="text" fontSize="25" lineHeight="30" top="13" audio="assets/sounds/questions/q30.ogg">
+<![CDATA[ How many times did Ross Geller marry and divorce on "Friends"? ]]>
+</question>
+<answers correctAnswer="3">
+<answer audio="assets/sounds/questions/q30_a.ogg" width="90" height="10" top="35" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ 1 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q30_b.ogg" width="90" height="10" top="47" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ 2 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q30_c.ogg" width="90" height="10" top="59" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ 3 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q30_d.ogg" width="90" height="10" top="71" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ 4 ]]>
+</answer>
+</answers>
+<inputs/>
+</portrait>
+</item>
+<item>
+<category level="1">Geography</category>
+<landscape>
+<question type="text" audio="assets/sounds/questions/q31.ogg">
+<![CDATA[ Which country has the highest population? ]]>
+</question>
+<answers correctAnswer="2">
+<answer audio="assets/sounds/questions/q31_a.ogg" top="48" type="text" width="35" left="14">
+<![CDATA[ America ]]>
+</answer>
+<answer audio="assets/sounds/questions/q31_b.ogg" top="48" type="text" left="51" width="35">
+<![CDATA[ China ]]>
+</answer>
+<answer audio="assets/sounds/questions/q31_c.ogg" top="65" type="text" left="14" width="35">
+<![CDATA[ Australia ]]>
+</answer>
+<answer audio="assets/sounds/questions/q31_d.ogg" top="65" type="text" left="51" width="35">
+<![CDATA[ India ]]>
+</answer>
+</answers>
+<inputs/>
+</landscape>
+<portrait>
+<question type="text" fontSize="25" lineHeight="30" top="13" audio="assets/sounds/questions/q31.ogg">
+<![CDATA[ Which country has the highest population? ]]>
+</question>
+<answers correctAnswer="2">
+<answer audio="assets/sounds/questions/q31_a.ogg" width="90" height="10" top="35" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ America ]]>
+</answer>
+<answer audio="assets/sounds/questions/q31_b.ogg" width="90" height="10" top="47" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ China ]]>
+</answer>
+<answer audio="assets/sounds/questions/q31_c.ogg" width="90" height="10" top="59" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Australia ]]>
+</answer>
+<answer audio="assets/sounds/questions/q31_d.ogg" width="90" height="10" top="71" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ India ]]>
+</answer>
+</answers>
+<inputs/>
+</portrait>
+</item>
+<item>
+<category level="2">Geography</category>
+<landscape>
+<question type="text" audio="assets/sounds/questions/q32.ogg">
+<![CDATA[ Which is the tallest mountain in the world? ]]>
+</question>
+<answers correctAnswer="2">
+<answer audio="assets/sounds/questions/q32_a.ogg" top="48" type="text" width="35" left="14">
+<![CDATA[ K2 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q32_b.ogg" top="48" type="text" left="51" width="35">
+<![CDATA[ Mount Everest ]]>
+</answer>
+<answer audio="assets/sounds/questions/q32_c.ogg" top="65" type="text" left="14" width="35">
+<![CDATA[ Kangchenjunga ]]>
+</answer>
+<answer audio="assets/sounds/questions/q32_d.ogg" top="65" type="text" left="51" width="35">
+<![CDATA[ Makalu ]]>
+</answer>
+</answers>
+<inputs/>
+</landscape>
+<portrait>
+<question type="text" fontSize="25" lineHeight="30" top="13" audio="assets/sounds/questions/q32.ogg">
+<![CDATA[ Which is the tallest mountain in the world? ]]>
+</question>
+<answers correctAnswer="2">
+<answer audio="assets/sounds/questions/q32_a.ogg" width="90" height="10" top="35" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ K2 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q32_b.ogg" width="90" height="10" top="47" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Mount Everest ]]>
+</answer>
+<answer audio="assets/sounds/questions/q32_c.ogg" width="90" height="10" top="59" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Kangchenjunga ]]>
+</answer>
+<answer audio="assets/sounds/questions/q32_d.ogg" width="90" height="10" top="71" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Makalu ]]>
+</answer>
+</answers>
+<inputs/>
+</portrait>
+</item>
+<item>
+<category level="3">Geography</category>
+<landscape>
+<question type="text" audio="assets/sounds/questions/q33.ogg">
+<![CDATA[ How many countries are present in Africa? ]]>
+</question>
+<answers correctAnswer="2">
+<answer audio="assets/sounds/questions/q33_a.ogg" top="48" type="text" width="35" left="14">
+<![CDATA[ 53 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q33_b.ogg" top="48" type="text" left="51" width="35">
+<![CDATA[ 54 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q33_c.ogg" top="65" type="text" left="14" width="35">
+<![CDATA[ 55 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q33_d.ogg" top="65" type="text" left="51" width="35">
+<![CDATA[ 56 ]]>
+</answer>
+</answers>
+<inputs/>
+</landscape>
+<portrait>
+<question type="text" fontSize="25" lineHeight="30" top="13" audio="assets/sounds/questions/q33.ogg">
+<![CDATA[ How many countries are present in Africa? ]]>
+</question>
+<answers correctAnswer="2">
+<answer audio="assets/sounds/questions/q33_a.ogg" width="90" height="10" top="35" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ 53 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q33_b.ogg" width="90" height="10" top="47" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ 54 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q33_c.ogg" width="90" height="10" top="59" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ 55 ]]>
+</answer>
+<answer audio="assets/sounds/questions/q33_d.ogg" width="90" height="10" top="71" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ 56 ]]>
+</answer>
+</answers>
+<inputs/>
+</portrait>
+</item>
+<item>
+<category level="4">Geography</category>
+<landscape>
+<question type="text" audio="assets/sounds/questions/q34.ogg">
+<![CDATA[ Name the river that is not crossed by any bridges. ]]>
+</question>
+<answers correctAnswer="4">
+<answer audio="assets/sounds/questions/q34_a.ogg" top="48" type="text" width="35" left="14">
+<![CDATA[ Ganges ]]>
+</answer>
+<answer audio="assets/sounds/questions/q34_b.ogg" top="48" type="text" left="51" width="35">
+<![CDATA[ Nile ]]>
+</answer>
+<answer audio="assets/sounds/questions/q34_c.ogg" top="65" type="text" left="14" width="35">
+<![CDATA[ Yangtze ]]>
+</answer>
+<answer audio="assets/sounds/questions/q34_d.ogg" top="65" type="text" left="51" width="35">
+<![CDATA[ Amazon ]]>
+</answer>
+</answers>
+<inputs/>
+</landscape>
+<portrait>
+<question type="text" fontSize="25" lineHeight="30" top="13" audio="assets/sounds/questions/q34.ogg">
+<![CDATA[ Name the river that is not crossed by any bridges. ]]>
+</question>
+<answers correctAnswer="4">
+<answer audio="assets/sounds/questions/q34_a.ogg" width="90" height="10" top="35" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Ganges ]]>
+</answer>
+<answer audio="assets/sounds/questions/q34_b.ogg" width="90" height="10" top="47" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Nile ]]>
+</answer>
+<answer audio="assets/sounds/questions/q34_c.ogg" width="90" height="10" top="59" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Yangtze ]]>
+</answer>
+<answer audio="assets/sounds/questions/q34_d.ogg" width="90" height="10" top="71" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Amazon ]]>
+</answer>
+</answers>
+<inputs/>
+</portrait>
+</item>
+<item>
+<category level="5">Geography</category>
+<landscape>
+<question type="text" audio="assets/sounds/questions/q35.ogg">
+<![CDATA[ Which country produces maximum aluminium in the world? ]]>
+</question>
+<answers correctAnswer="1">
+<answer audio="assets/sounds/questions/q35_a.ogg" top="48" type="text" width="35" left="14">
+<![CDATA[ Jamaica ]]>
+</answer>
+<answer audio="assets/sounds/questions/q35_b.ogg" top="48" type="text" left="51" width="35">
+<![CDATA[ China ]]>
+</answer>
+<answer audio="assets/sounds/questions/q35_c.ogg" top="65" type="text" left="14" width="35">
+<![CDATA[ Russia ]]>
+</answer>
+<answer audio="assets/sounds/questions/q35_d.ogg" top="65" type="text" left="51" width="35">
+<![CDATA[ Canada ]]>
+</answer>
+</answers>
+<inputs/>
+</landscape>
+<portrait>
+<question type="text" fontSize="25" lineHeight="30" top="13" audio="assets/sounds/questions/q35.ogg">
+<![CDATA[ Which country produces maximum aluminium in the world? ]]>
+</question>
+<answers correctAnswer="1">
+<answer audio="assets/sounds/questions/q35_a.ogg" width="90" height="10" top="35" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Jamaica ]]>
+</answer>
+<answer audio="assets/sounds/questions/q35_b.ogg" width="90" height="10" top="47" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ China ]]>
+</answer>
+<answer audio="assets/sounds/questions/q35_c.ogg" width="90" height="10" top="59" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Russia ]]>
+</answer>
+<answer audio="assets/sounds/questions/q35_d.ogg" width="90" height="10" top="71" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Canada ]]>
+</answer>
+</answers>
+<inputs/>
+</portrait>
+</item>
+<item>
+<category level="1" type="quick">Type of Questions</category>
+<landscape>
+<question type="text" top="30" align="center">
+<![CDATA[ The pilot flies a &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; aeroplane. ]]>
+</question>
+<answers correctAnswer="" drag="true">
+<answer top="50" type="text" width="25" height="11" left="22" align="center">
+<![CDATA[ big ]]>
+</answer>
+<answer top="50" type="text" width="25" height="11" left="53" align="center">
+<![CDATA[ clean ]]>
+</answer>
+<answer top="68" type="text" submit="true" left="32" width="35">
+<![CDATA[ Done ]]>
+</answer>
+</answers>
+<groups>
+<group correctAnswer="2" dropMax="1" dropWidth="26" dropHeight="11" dropLeft="41" dropTop="28" dropOffLeft=".8" dropOffTop="1"/>
+</groups>
+</landscape>
+<portrait>
+<question type="text" top="20" align="center" fontSize="30" lineHeight="30">
+<![CDATA[ The pilot flies a aeroplane. ]]>
+</question>
+<answers correctAnswer="" drag="true">
+<answer top="50" type="text" width="40" height="8" left="30" align="center" fontSize="20" lineHeight="20">
+<![CDATA[ big ]]>
+</answer>
+<answer top="60" type="text" width="40" height="8" left="30" dropLabelAlign="right" align="center" dropLabelType="text" fontSize="20" lineHeight="20">
+<![CDATA[ clean ]]>
+</answer>
+<answer top="72" type="text" submit="true" left="32" width="35" fontSize="20" lineHeight="20" height="8" align="center" dropLabelType="text">
+<![CDATA[ Done ]]>
+</answer>
+</answers>
+<groups>
+<group correctAnswer="2" dropMax="1" dropWidth="43" dropHeight="8" dropLeft="28" dropTop="29" dropOffLeft="1.7" dropOffTop="1"/>
+</groups>
+</portrait>
+</item>
+<item>
+<category level="1" type="quick">Type of Questions</category>
+<landscape>
+<question type="text">
+<![CDATA[ A farmer had 17 sheep. All but 9 died. How many live sheep were left? ]]>
+</question>
+<inputs>
+<input type="blank" correctAnswer="9">
+<![CDATA[ ? ]]>
+</input>
+<input type="text" top="68" color="#fff" submit="true">
+<![CDATA[ OK ]]>
+</input>
+</inputs>
+</landscape>
+<portrait>
+<question type="text" fontSize="30" lineHeight="40" top="20">
+<![CDATA[ A farmer had 17 sheep. All but 9 died. How many live sheep were left? ]]>
+</question>
+<inputs>
+<input type="blank" correctAnswer="9" width="50" left="25">
+<![CDATA[ ? ]]>
+</input>
+<input type="text" top="68" color="#fff" left="25" width="50" fontSize="25" lineHeight="25" offsetTop="-20" submit="true">
+<![CDATA[ OK ]]>
+</input>
+</inputs>
+</portrait>
+</item>
+<item>
+<category level="1" type="quick">Type of Questions</category>
+<landscape>
+<question type="text" top="15">
+<![CDATA[ Which is not number? ]]>
+</question>
+<answers correctAnswer="1,3,4">
+<answer top="31" type="text" width="35" left="14">
+<![CDATA[ Space ]]>
+</answer>
+<answer top="31" type="text" left="51" width="35">
+<![CDATA[ 999 ]]>
+</answer>
+<answer top="48" type="text" left="14" width="35">
+<![CDATA[ 7Eleven ]]>
+</answer>
+<answer top="48" type="text" left="51" width="35">
+<![CDATA[ Sixteen ]]>
+</answer>
+<answer top="65" type="text" submit="true" left="32" width="35">
+<![CDATA[ Done ]]>
+</answer>
+</answers>
+<inputs/>
+<explanation/>
+</landscape>
+<portrait>
+<question type="text" fontSize="30" lineHeight="40" top="10" align="center">
+<![CDATA[ Which is not number? ]]>
+</question>
+<answers correctAnswer="1,3,4">
+<answer width="90" height="9" top="25" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Space ]]>
+</answer>
+<answer width="90" height="9" top="36" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ 999 ]]>
+</answer>
+<answer width="90" height="9" top="47" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ 7Eleven ]]>
+</answer>
+<answer width="90" height="9" top="58" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ Sixteen ]]>
+</answer>
+<answer width="90" height="9" top="69" type="text" fontSize="25" lineHeight="25" offsetTop="-15" submit="true">
+<![CDATA[ Done ]]>
+</answer>
+</answers>
+<inputs/>
+<explanation/>
+</portrait>
+</item>
+<item>
+<category level="1" type="quick">Type of Questions</category>
+<landscape>
+<question type="text" top="13">
+<![CDATA[ How many animals in the scene? ]]>
+</question>
+<videos left="10" top="30" autoplay="true" controls="true">
+<video type="video/mp4">assets/questions/mov_bbb.mp4</video>
+</videos>
+<answers correctAnswer="3">
+<answer type="text" top="31" width="35" left="54">
+<![CDATA[ 0 ]]>
+</answer>
+<answer top="48" type="text" left="54" width="35">
+<![CDATA[ 1 ]]>
+</answer>
+<answer top="65" type="text" left="54" width="35">
+<![CDATA[ 2 ]]>
+</answer>
+</answers>
+<inputs/>
+<explanation/>
+</landscape>
+<portrait>
+<question type="text" fontSize="20" top="10" lineHeight="30">
+<![CDATA[ How many animals in the scene? ]]>
+</question>
+<videos left="5" top="16" width="90" height="33" autoplay="true" controls="true">
+<video type="video/mp4">assets/questions/mov_bbb.mp4</video>
+</videos>
+<answers correctAnswer="3">
+<answer width="90" height="8" top="52" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ 0 ]]>
+</answer>
+<answer width="90" height="8" top="62" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ 1 ]]>
+</answer>
+<answer width="90" height="8" top="72" type="text" fontSize="25" lineHeight="25" offsetTop="-15">
+<![CDATA[ 2 ]]>
+</answer>
+</answers>
+<inputs/>
+<explanation type="text" fontSize="25" lineHeight="25"/>
+</portrait>
+</item>
+<item>
+<category level="1" type="quick">Type of Questions</category>
+<landscape>
+<question type="text" top="10">
+<![CDATA[ Dragging the labels into boxes ]]>
+</question>
+<answers correctAnswer="" drag="true">
+<answer top="24" type="text" width="25" height="11" left="65" dropLeft="33" dropTop="23" dropWidth="26" dropHeight="11" dropOffLeft=".5" dropOffTop="1" dropLabelText="India" dropLabelAlign="right" dropLabelColor="#ccc" dropLabelTop="24" dropLabelWidth="30" dropLabelHeight="10" align="center" dropLabelType="text">
+<![CDATA[ Delhi ]]>
+</answer>
+<answer top="38" type="text" width="25" height="11" left="65" dropLeft="33" dropTop="37" dropWidth="26" dropHeight="11" dropOffLeft=".5" dropOffTop="1" dropLabelText="Pakistan" dropLabelTop="38" dropLabelAlign="right" dropLabelColor="#ccc" dropLabelWidth="30" dropLabelHeight="10" align="center" dropLabelType="text">
+<![CDATA[ Islamabad ]]>
+</answer>
+<answer top="52" type="text" width="25" height="11" left="65" dropLeft="33" dropTop="51" dropWidth="26" dropHeight="11" dropOffLeft=".5" dropOffTop="1" dropLabelText="USA" dropLabelAlign="right" dropLabelColor="#ccc" dropLabelTop="52" dropLabelWidth="30" dropLabelHeight="10" align="center" dropLabelType="text">
+<![CDATA[ Washington ]]>
+</answer>
+<answer top="68" type="text" submit="true" left="32" width="35">
+<![CDATA[ Done ]]>
+</answer>
+</answers>
+<inputs/>
+</landscape>
+<portrait>
+<question type="text" top="10" fontSize="30" lineHeight="30">
+<![CDATA[ Dragging the labels into boxes ]]>
+</question>
+<answers correctAnswer="" drag="true">
+<answer top="53" type="text" left="9" width="40" height="8" fontSize="20" lineHeight="20" dropLeft="43" dropTop="21" dropWidth="43" dropHeight="8" dropOffLeft="1.7" dropOffTop="1" align="center" dropLabelType="text" dropLabelText="India" dropLabelTop="22" dropLabelWidth="30" dropLabelHeight="10" dropLabelAlign="right" dropLabelColor="#ccc" dropLabelFontSize="25" dropLabelLineHeight="25" dropLabelLeft="8">
+<![CDATA[ Delhi ]]>
+</answer>
+<answer top="53" type="text" left="53" width="40" height="8" fontSize="20" lineHeight="20" dropLeft="43" dropTop="31" dropWidth="43" dropHeight="8" dropOffLeft="1.7" dropOffTop="1" align="center" dropLabelType="text" dropLabelText="Pakistan" dropLabelFontSize="25" dropLabelLineHeight="25" dropLabelAlign="right" dropLabelColor="#ccc" dropLabelLeft="8" dropLabelTop="32" dropLabelWidth="30" dropLabelHeight="10">
+<![CDATA[ Islamabad ]]>
+</answer>
+<answer top="63" type="text" left="30" width="40" height="8" fontSize="20" lineHeight="20" dropLeft="43" dropTop="41" dropWidth="43" dropHeight="8" dropOffLeft="1.7" dropOffTop="1" align="center" dropLabelType="text" dropLabelText="USA" dropLabelFontSize="25" dropLabelLineHeight="25" dropLabelLeft="8" dropLabelTop="42" dropLabelWidth="30" dropLabelHeight="10" dropLabelAlign="right" dropLabelColor="#ccc">
+<![CDATA[ Washington ]]>
+</answer>
+<answer top="73" type="text" left="32" width="35" height="8" fontSize="20" lineHeight="20" submit="true">
+<![CDATA[ Done ]]>
+</answer>
+</answers>
+<inputs/>
+</portrait>
+</item>
+<item>
+<category level="1" type="quick">Type of Questions</category>
+<landscape>
+<question type="text"/>
+<answers correctAnswer="" drag="true">
+<answer top="55" type="text" width="20" height="11" left="5" align="center">
+<![CDATA[ car ]]>
+</answer>
+<answer top="55" type="text" width="20" height="11" left="28" align="center">
+<![CDATA[ spaghetti ]]>
+</answer>
+<answer top="55" type="text" width="20" height="11" left="51" align="center">
+<![CDATA[ Pizza ]]>
+</answer>
+<answer top="55" type="text" width="20" height="11" left="74" align="center">
+<![CDATA[ helicopter ]]>
+</answer>
+<answer top="69" type="text" submit="true" left="32" width="35" align="center">
+<![CDATA[ Done ]]>
+</answer>
+</answers>
+<groups>
+<group correctAnswer="1,4" dropWidth="43" dropHeight="20" dropLeft="5" dropTop="30" dropMax="4" align="center" type="text" color="#ccc" top="20" left="5" width="43" height="10">Transport</group>
+<group correctAnswer="2,3" dropWidth="43" dropHeight="20" dropLeft="51" dropTop="30" dropMax="4" align="center" type="text" color="#ccc" top="20" left="51" width="43" height="10">Food</group>
+</groups>
+</landscape>
+<portrait>
+<question type="text"/>
+<answers correctAnswer="" drag="true">
+<answer top="52" type="text" width="43" height="8" left="5" fontSize="20" lineHeight="20" align="center">
+<![CDATA[ car ]]>
+</answer>
+<answer top="52" type="text" width="43" height="8" left="52" fontSize="20" lineHeight="20" align="center">
+<![CDATA[ spaghetti ]]>
+</answer>
+<answer top="62" type="text" width="43" height="8" left="5" fontSize="20" lineHeight="20" align="center">
+<![CDATA[ Pizza ]]>
+</answer>
+<answer top="62" type="text" width="43" height="8" left="52" fontSize="20" lineHeight="20" align="center">
+<![CDATA[ helicopter ]]>
+</answer>
+<answer top="72" type="text" width="35" height="8" left="32" fontSize="20" lineHeight="20" align="center" submit="true">
+<![CDATA[ Done ]]>
+</answer>
+</answers>
+<groups>
+<group correctAnswer="1,4" dropWidth="90" dropHeight="11" dropLeft="5" dropTop="14" dropMax="4" align="center" type="text" color="#ccc" top="9" left="5" width="90" height="5" fontSize="25" lineHeight="25">Transport</group>
+<group correctAnswer="2,3" dropWidth="90" dropHeight="11" dropLeft="5" dropTop="35" dropMax="4" align="center" type="text" color="#ccc" top="30" left="5" width="90" height="5" fontSize="25" lineHeight="25">Food</group>
+</groups>
+</portrait>
+</item>
+</questions>
