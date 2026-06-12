@@ -2679,7 +2679,8 @@ function buildAnswers(){
 				$('#answer'+n).append(backgroundHTML);
 			}
 			
-			var answerHTML = '<div id="text'+n+'" class="fontAnswer resizeFont" data-fontSize="'+value.fontSize+'" data-lineHeight="'+value.lineHeight+'" style="position:relative; font-size:'+value.fontSize+'px; line-height:'+value.lineHeight+'px; color:'+value.color+';  text-align:'+value.align+';">'+curAnswerList+value.text+'</div>';
+			var answerHTML = '<div id="text'+n+'" class="fontAnswer resizeFont" data-fontSize="'+value.fontSize+'" data-lineHeight="'+value.lineHeight+'" style="position:absolute; top:0; left:0; width:100%; height:85%; display:flex; align-items:center; justify-content:center; gap:12px; font-size:'+value.fontSize+'px; line-height:1; color:'+value.color+'; text-align:'+value.align+';">'+curAnswerList+value.text+'</div>';
+
 			$('#answer'+n).append(answerHTML);
 			
 			var clickHTML = "<div class='buttonClick resizeBorder' data-border='"+answersButtonProperty.roundNumber+"' style='position:absolute; border-radius: "+answersButtonProperty.roundNumber+"px "+answersButtonProperty.roundNumber+"px "+answersButtonProperty.roundNumber+"px "+answersButtonProperty.roundNumber+"px; -moz-border-radius: "+answersButtonProperty.roundNumber+"px "+answersButtonProperty.roundNumber+"px "+answersButtonProperty.roundNumber+"px "+answersButtonProperty.roundNumber+"px; -webkit-border-radius: "+answersButtonProperty.roundNumber+"px "+answersButtonProperty.roundNumber+"px "+answersButtonProperty.roundNumber+"px "+answersButtonProperty.roundNumber+"px; width:100%; height:100%; position:absolute; top:"+value.offsetTop+"%;'></div>";
